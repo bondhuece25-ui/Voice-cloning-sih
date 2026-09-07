@@ -15,9 +15,12 @@ function App() {
   }
 
   if (currentPage === "analyze") {
-    return (
-      <AnalyzeAudio />
-    );
+  return (
+    <AnalyzeAudio
+      onBack={() => setCurrentPage("home")}
+    />
+  );
+
   }
 
   return (
