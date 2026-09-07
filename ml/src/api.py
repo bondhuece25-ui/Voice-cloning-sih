@@ -1,20 +1,19 @@
 from typing import Any
 
-from risk_engine import RiskEngine
+from .risk_engine import RiskEngine
 
 
 class AntiSpoofAPI:
     """
     Backend-facing interface for the voice anti-spoofing system.
 
-    The backend will eventually provide:
-        - audio chunks
-        - sample rate
+    Input:
+        spoof_probability: probability produced by the ML model
 
-    This class returns:
-        - current spoof probability
-        - rolling risk
-        - decision
+    Output:
+        spoof_probability
+        rolling_risk
+        decision
     """
 
     def __init__(self) -> None:
@@ -24,10 +23,6 @@ class AntiSpoofAPI:
         self,
         spoof_probability: float,
     ) -> dict[str, Any]:
-        """
-        Receive one model prediction and convert it
-        into a backend-friendly result.
-        """
 
         result = self.risk_engine.update(
             spoof_probability

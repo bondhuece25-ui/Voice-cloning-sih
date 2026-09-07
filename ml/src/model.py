@@ -24,7 +24,7 @@ class VoiceAntiSpoofModel(nn.Module):
         self.model_name = model_name
         self.num_classes = num_classes
         self.backbone = Wav2Vec2Model.from_pretrained(model_name)
-        self.dropout = nn.Dropout(self.backbone.config.hidden_dropout_prob)
+        self.dropout = nn.Dropout(self.backbone.config.hidden_dropout)
         self.classifier = nn.Linear(self.backbone.config.hidden_size, num_classes)
 
         if freeze_feature_extractor:
