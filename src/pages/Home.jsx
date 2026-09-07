@@ -1,6 +1,9 @@
 import "./Home.css";
 
-function Home({ onStartProtection }) {
+function Home({
+  onStartProtection,
+  onAnalyzeAudio,
+})  {
   return (
     <div className="home-page">
 
@@ -45,8 +48,11 @@ function Home({ onStartProtection }) {
   Start Protection
 </button>
 
-          <button className="secondary-button">
-            Analyze Audio
+          <button
+                className="secondary-button"
+                onClick={onAnalyzeAudio}
+          >
+              Analyze Audio
           </button>
         </div>
         <div className="protection-card">

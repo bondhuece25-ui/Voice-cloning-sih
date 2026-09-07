@@ -1,6 +1,36 @@
+import { useEffect, useState } from "react";
 import "./Protection.css";
-
 function Protection({ onEndProtection }) {
+      const [seconds, setSeconds] = useState(0);
+      const [riskScore, setRiskScore] = useState(24);
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setSeconds((prev) => prev + 1);
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, []);
+  useEffect(() => {
+  const riskTimer = setInterval(() => {
+    setRiskScore((prev) => {
+      const change = Math.floor(Math.random() * 7) - 3;
+      const next = prev + change;
+
+      return Math.min(100, Math.max(5, next));
+    });
+  }, 1500);
+
+  return () => clearInterval(riskTimer);
+  }, []);
+  const minutes = Math.floor(seconds / 60)
+    .toString()
+    .padStart(2, "0");
+
+  const remainingSeconds = (seconds % 60)
+    .toString()
+    .padStart(2, "0");
+
+  const callDuration = `${minutes}:${remainingSeconds}`;
   return (
     <div className="protection-page">
       <header className="protection-header">
@@ -24,7 +54,7 @@ function Protection({ onEndProtection }) {
               <p className="caller-number">+91 ••••• •••••</p>
             </div>
 
-            <div className="call-timer">02:14</div>
+            <div className="call-timer">{callDuration}</div>
           </div>
 
           <div className="voice-status">
@@ -47,13 +77,15 @@ function Protection({ onEndProtection }) {
                 <h3>Low Risk</h3>
               </div>
 
-              <strong>24%</strong>
-            </div>
+              <strong>{riskScore}%</strong>
+              </div>
 
-            <div className="risk-bar">
-              <div className="risk-fill"></div>
-            </div>
-
+              <div className="risk-bar">
+              <div
+                 className="risk-fill"
+                 style={{ width: `${riskScore}%` }}
+              ></div>
+              </div>
             <p className="risk-note">
               No significant indicators of voice impersonation detected.
             </p>
