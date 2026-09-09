@@ -7,9 +7,12 @@ function AnalyzeAudio({ onBack }) {
   const [result, setResult] = useState(null);
   const [progress, setProgress] = useState(0);
 
+  const [isRecording, setIsRecording] = useState(false);
+  const [mediaRecorder, setMediaRecorder] = useState(null);
+
   const handleAnalyze = () => {
     if (!selectedFile) {
-      alert("Please select an audio file first.");
+      alert("Please select or record an audio file first.");
       return;
     }
 
@@ -67,6 +70,53 @@ function AnalyzeAudio({ onBack }) {
     setProgress(0);
   };
 
+  const startRecording = async () => {
+    try {
+      const stream =
+        await navigator.mediaDevices.getUserMedia({
+          audio: true,
+        });
+
+      const recorder = new MediaRecorder(stream);
+
+      const chunks = [];
+
+      recorder.ondataavailable = (event) => {
+        chunks.push(event.data);
+      };
+
+      recorder.onstop = () => {
+        const blob = new Blob(chunks, {
+          type: "audio/webm",
+        });
+
+        const file = new File(
+          [blob],
+          "recorded-audio.webm",
+          {
+            type: "audio/webm",
+          }
+        );
+
+        setSelectedFile(file);
+      };
+
+      recorder.start();
+
+      setMediaRecorder(recorder);
+      setIsRecording(true);
+    } catch (error) {
+      alert("Microphone access denied.");
+    }
+  };
+
+  const stopRecording = () => {
+    if (mediaRecorder) {
+      mediaRecorder.stop();
+      setIsRecording(false);
+    }
+  };
+
   return (
     <div className="analyze-page">
       <div className="analyze-container">
@@ -86,20 +136,25 @@ function AnalyzeAudio({ onBack }) {
           <h1>Analyze Audio Recording</h1>
 
           <p className="analyze-subtitle">
-            Upload an audio sample and detect
+            Upload or record audio and detect
             potential AI-generated voices.
           </p>
         </div>
 
         <div className="upload-card">
           <div className="upload-area">
-            <div className="upload-icon">🎵</div>
 
-            <h3>Drop audio file here</h3>
+            <div className="upload-icon">
+              🎵
+            </div>
+
+            <h3>
+              Upload Audio OR Record Audio
+            </h3>
 
             <p>
-              Supports MP3, WAV, M4A and other
-              audio formats
+              Supports MP3, WAV, M4A and
+              recorded audio
             </p>
 
             <input
@@ -121,6 +176,26 @@ function AnalyzeAudio({ onBack }) {
               Choose Audio File
             </label>
 
+            <div className="record-section">
+              <p className="or-text">OR</p>
+
+              {!isRecording ? (
+                <button
+                  className="record-btn"
+                  onClick={startRecording}
+                >
+                  🎤 Start Recording
+                </button>
+              ) : (
+                <button
+                  className="stop-btn"
+                  onClick={stopRecording}
+                >
+                  ⏹ Stop Recording
+                </button>
+              )}
+            </div>
+
             {selectedFile && (
               <>
                 <div className="file-details">
@@ -135,8 +210,7 @@ function AnalyzeAudio({ onBack }) {
                       selectedFile.size /
                       1024 /
                       1024
-                    ).toFixed(2)}{" "}
-                    MB
+                    ).toFixed(2)} MB
                   </p>
 
                   <p>
@@ -191,17 +265,22 @@ function AnalyzeAudio({ onBack }) {
             </p>
 
             <h2>
-              🤖 AI Probability: {result.aiProbability}%
+              🤖 AI Probability:
+              {" "}
+              {result.aiProbability}%
             </h2>
+
             <h3
               className={`threat-${result.threatLevel.toLowerCase()}`}
             >
-              Threat Level:{" "}
+              Threat Level:
+              {" "}
               {result.threatLevel}
             </h3>
 
             <p>
-              Recommendation:{" "}
+              Recommendation:
+              {" "}
               {result.recommendation}
             </p>
 
