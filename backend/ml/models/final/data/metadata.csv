@@ -1,0 +1,1601 @@
+path,label,speaker_id
+audio/spoof_0000.wav,1,Alec Guinness
+audio/spoof_0001.wav,1,Alec Guinness
+audio/spoof_0002.wav,1,Barack Obama
+audio/spoof_0003.wav,1,Alec Guinness
+audio/bonafide_0000.wav,0,Christopher Hitchens
+audio/bonafide_0001.wav,0,Ayn Rand
+audio/spoof_0004.wav,1,Barack Obama
+audio/bonafide_0002.wav,0,Donald Trump
+audio/bonafide_0003.wav,0,Donald Trump
+audio/bonafide_0004.wav,0,Alec Guinness
+audio/spoof_0005.wav,1,Bernie Sanders
+audio/bonafide_0005.wav,0,Christopher Hitchens
+audio/bonafide_0006.wav,0,Calvin Coolidge
+audio/spoof_0006.wav,1,Alec Guinness
+audio/bonafide_0007.wav,0,Barack Obama
+audio/spoof_0007.wav,1,Bernie Sanders
+audio/spoof_0008.wav,1,Winston Churchill
+audio/spoof_0009.wav,1,Winston Churchill
+audio/bonafide_0008.wav,0,Donald Trump
+audio/spoof_0010.wav,1,Bob Ross
+audio/bonafide_0009.wav,0,Donald Trump
+audio/spoof_0011.wav,1,Richard Nixon
+audio/bonafide_0010.wav,0,2Pac
+audio/bonafide_0011.wav,0,Donald Trump
+audio/spoof_0012.wav,1,Ronald Reagan
+audio/spoof_0013.wav,1,Ayn Rand
+audio/bonafide_0012.wav,0,JFK
+audio/bonafide_0013.wav,0,Arnold Schwarzenegger
+audio/bonafide_0014.wav,0,Nick Offerman
+audio/bonafide_0015.wav,0,Bill Clinton
+audio/bonafide_0016.wav,0,Martin Luther King
+audio/spoof_0014.wav,1,Bill Burr
+audio/spoof_0015.wav,1,Ronald Reagan
+audio/bonafide_0017.wav,0,Bill Clinton
+audio/spoof_0016.wav,1,Alec Guinness
+audio/spoof_0017.wav,1,Ayn Rand
+audio/bonafide_0018.wav,0,Christopher Hitchens
+audio/bonafide_0019.wav,0,Ronald Reagan
+audio/bonafide_0020.wav,0,Barack Obama
+audio/bonafide_0021.wav,0,Christopher Hitchens
+audio/spoof_0018.wav,1,Christopher Hitchens
+audio/spoof_0019.wav,1,Donald Trump
+audio/spoof_0020.wav,1,Bernie Sanders
+audio/spoof_0021.wav,1,Ayn Rand
+audio/bonafide_0022.wav,0,Bernie Sanders
+audio/bonafide_0023.wav,0,Mark Zuckerberg
+audio/bonafide_0024.wav,0,Alec Guinness
+audio/spoof_0022.wav,1,Alec Guinness
+audio/bonafide_0025.wav,0,Richard Nixon
+audio/bonafide_0026.wav,0,Barack Obama
+audio/spoof_0023.wav,1,George W. Bush
+audio/bonafide_0027.wav,0,Dave Chappelle
+audio/bonafide_0028.wav,0,Bernie Sanders
+audio/bonafide_0029.wav,0,Boris Johnson
+audio/bonafide_0030.wav,0,Martin Luther King
+audio/bonafide_0031.wav,0,Bill Clinton
+audio/bonafide_0032.wav,0,JFK
+audio/spoof_0024.wav,1,Alan Watts
+audio/bonafide_0033.wav,0,Mark Zuckerberg
+audio/spoof_0025.wav,1,Louis C.K.
+audio/spoof_0026.wav,1,The Notorious B.I.G.
+audio/spoof_0027.wav,1,Alec Guinness
+audio/spoof_0028.wav,1,Ronald Reagan
+audio/spoof_0029.wav,1,Ayn Rand
+audio/bonafide_0034.wav,0,Ayn Rand
+audio/spoof_0030.wav,1,Mark Zuckerberg
+audio/bonafide_0035.wav,0,Barack Obama
+audio/bonafide_0036.wav,0,Bernie Sanders
+audio/spoof_0031.wav,1,Bernie Sanders
+audio/spoof_0032.wav,1,Bernie Sanders
+audio/bonafide_0037.wav,0,Alan Watts
+audio/bonafide_0038.wav,0,Jimmy Carter
+audio/bonafide_0039.wav,0,Barack Obama
+audio/bonafide_0040.wav,0,Bill Clinton
+audio/bonafide_0041.wav,0,Christopher Hitchens
+audio/bonafide_0042.wav,0,Winston Churchill
+audio/spoof_0033.wav,1,Bill Clinton
+audio/bonafide_0043.wav,0,Alec Guinness
+audio/bonafide_0044.wav,0,Dwight Eisenhower
+audio/spoof_0034.wav,1,2Pac
+audio/bonafide_0045.wav,0,Donald Trump
+audio/spoof_0035.wav,1,Bernie Sanders
+audio/bonafide_0046.wav,0,Alec Guinness
+audio/bonafide_0047.wav,0,Bill Clinton
+audio/bonafide_0048.wav,0,Bernie Sanders
+audio/bonafide_0049.wav,0,Bernie Sanders
+audio/bonafide_0050.wav,0,Alec Guinness
+audio/bonafide_0051.wav,0,Alec Guinness
+audio/bonafide_0052.wav,0,Ronald Reagan
+audio/bonafide_0053.wav,0,Barack Obama
+audio/bonafide_0054.wav,0,Donald Trump
+audio/spoof_0036.wav,1,Bill Clinton
+audio/spoof_0037.wav,1,Mitch Hedberg
+audio/bonafide_0055.wav,0,Ayn Rand
+audio/bonafide_0056.wav,0,Barack Obama
+audio/bonafide_0057.wav,0,Bill Clinton
+audio/bonafide_0058.wav,0,Alec Guinness
+audio/bonafide_0059.wav,0,Barack Obama
+audio/bonafide_0060.wav,0,Bernie Sanders
+audio/bonafide_0061.wav,0,Bill Burr
+audio/bonafide_0062.wav,0,Alexandria Ocasio-Cortez
+audio/spoof_0038.wav,1,Christopher Hitchens
+audio/bonafide_0063.wav,0,Milton Friedman
+audio/spoof_0039.wav,1,Bernie Sanders
+audio/bonafide_0064.wav,0,Bernie Sanders
+audio/bonafide_0065.wav,0,Christopher Hitchens
+audio/bonafide_0066.wav,0,FDR
+audio/spoof_0040.wav,1,Alec Guinness
+audio/bonafide_0067.wav,0,Donald Trump
+audio/bonafide_0068.wav,0,Arnold Schwarzenegger
+audio/spoof_0041.wav,1,Milton Friedman
+audio/bonafide_0069.wav,0,Barack Obama
+audio/bonafide_0070.wav,0,Barack Obama
+audio/bonafide_0071.wav,0,Donald Trump
+audio/spoof_0042.wav,1,Ayn Rand
+audio/bonafide_0072.wav,0,Bill Clinton
+audio/spoof_0043.wav,1,FDR
+audio/spoof_0044.wav,1,Alan Watts
+audio/spoof_0045.wav,1,Bernie Sanders
+audio/bonafide_0073.wav,0,Barack Obama
+audio/bonafide_0074.wav,0,Barack Obama
+audio/bonafide_0075.wav,0,Ayn Rand
+audio/spoof_0046.wav,1,FDR
+audio/bonafide_0076.wav,0,Donald Trump
+audio/bonafide_0077.wav,0,Barack Obama
+audio/bonafide_0078.wav,0,Donald Trump
+audio/spoof_0047.wav,1,Mitch Hedberg
+audio/spoof_0048.wav,1,George W. Bush
+audio/spoof_0049.wav,1,Alan Watts
+audio/bonafide_0079.wav,0,Milton Friedman
+audio/bonafide_0080.wav,0,Bernie Sanders
+audio/bonafide_0081.wav,0,Bill Clinton
+audio/spoof_0050.wav,1,JFK
+audio/bonafide_0082.wav,0,Barack Obama
+audio/bonafide_0083.wav,0,Donald Trump
+audio/spoof_0051.wav,1,Bernie Sanders
+audio/spoof_0052.wav,1,Alec Guinness
+audio/bonafide_0084.wav,0,Bill Clinton
+audio/spoof_0053.wav,1,Donald Trump
+audio/spoof_0054.wav,1,Bernie Sanders
+audio/bonafide_0085.wav,0,Alec Guinness
+audio/bonafide_0086.wav,0,Mark Zuckerberg
+audio/bonafide_0087.wav,0,Mark Zuckerberg
+audio/bonafide_0088.wav,0,Ayn Rand
+audio/spoof_0055.wav,1,Queen Elizabeth II
+audio/bonafide_0089.wav,0,Barack Obama
+audio/spoof_0056.wav,1,The Notorious B.I.G.
+audio/bonafide_0090.wav,0,Alec Guinness
+audio/spoof_0057.wav,1,Jerry Seinfeld
+audio/bonafide_0091.wav,0,Martin Luther King
+audio/spoof_0058.wav,1,Queen Elizabeth II
+audio/bonafide_0092.wav,0,Martin Luther King
+audio/bonafide_0093.wav,0,Christopher Hitchens
+audio/spoof_0059.wav,1,2Pac
+audio/bonafide_0094.wav,0,Winston Churchill
+audio/spoof_0060.wav,1,Alec Guinness
+audio/bonafide_0095.wav,0,Martin Luther King
+audio/bonafide_0096.wav,0,Bill Clinton
+audio/bonafide_0097.wav,0,Donald Trump
+audio/spoof_0061.wav,1,Bernie Sanders
+audio/bonafide_0098.wav,0,Martin Luther King
+audio/bonafide_0099.wav,0,Donald Trump
+audio/bonafide_0100.wav,0,Donald Trump
+audio/spoof_0062.wav,1,Alec Guinness
+audio/bonafide_0101.wav,0,Barack Obama
+audio/spoof_0063.wav,1,George W. Bush
+audio/bonafide_0102.wav,0,Alec Guinness
+audio/bonafide_0103.wav,0,Ayn Rand
+audio/bonafide_0104.wav,0,Alec Guinness
+audio/bonafide_0105.wav,0,Ayn Rand
+audio/spoof_0064.wav,1,Tucker Carlson
+audio/bonafide_0106.wav,0,Donald Trump
+audio/spoof_0065.wav,1,Ayn Rand
+audio/bonafide_0107.wav,0,Christopher Hitchens
+audio/spoof_0066.wav,1,Alec Guinness
+audio/spoof_0067.wav,1,Nelson Mandela
+audio/bonafide_0108.wav,0,Barack Obama
+audio/bonafide_0109.wav,0,JFK
+audio/bonafide_0110.wav,0,Ronald Reagan
+audio/spoof_0068.wav,1,Ayn Rand
+audio/bonafide_0111.wav,0,Donald Trump
+audio/bonafide_0112.wav,0,Christopher Hitchens
+audio/spoof_0069.wav,1,Ayn Rand
+audio/bonafide_0113.wav,0,Bernie Sanders
+audio/spoof_0070.wav,1,Barack Obama
+audio/bonafide_0114.wav,0,Winston Churchill
+audio/spoof_0071.wav,1,Alec Guinness
+audio/bonafide_0115.wav,0,Bernie Sanders
+audio/spoof_0072.wav,1,Milton Friedman
+audio/bonafide_0116.wav,0,Bernie Sanders
+audio/spoof_0073.wav,1,Barack Obama
+audio/spoof_0074.wav,1,Mark Zuckerberg
+audio/bonafide_0117.wav,0,Winston Churchill
+audio/spoof_0075.wav,1,The Notorious B.I.G.
+audio/bonafide_0118.wav,0,Bernie Sanders
+audio/bonafide_0119.wav,0,Barack Obama
+audio/bonafide_0120.wav,0,Bernie Sanders
+audio/bonafide_0121.wav,0,Barack Obama
+audio/bonafide_0122.wav,0,Bernie Sanders
+audio/bonafide_0123.wav,0,Barack Obama
+audio/bonafide_0124.wav,0,Donald Trump
+audio/bonafide_0125.wav,0,Donald Trump
+audio/bonafide_0126.wav,0,Ayn Rand
+audio/bonafide_0127.wav,0,Barack Obama
+audio/bonafide_0128.wav,0,Donald Trump
+audio/bonafide_0129.wav,0,Donald Trump
+audio/bonafide_0130.wav,0,Ayn Rand
+audio/spoof_0076.wav,1,Jerry Seinfeld
+audio/bonafide_0131.wav,0,Bernie Sanders
+audio/spoof_0077.wav,1,Nelson Mandela
+audio/bonafide_0132.wav,0,Alec Guinness
+audio/spoof_0078.wav,1,Ronald Reagan
+audio/bonafide_0133.wav,0,Ronald Reagan
+audio/bonafide_0134.wav,0,FDR
+audio/spoof_0079.wav,1,George W. Bush
+audio/spoof_0080.wav,1,Alec Guinness
+audio/bonafide_0135.wav,0,Mark Zuckerberg
+audio/bonafide_0136.wav,0,Richard Nixon
+audio/bonafide_0137.wav,0,Donald Trump
+audio/bonafide_0138.wav,0,Donald Trump
+audio/bonafide_0139.wav,0,Ronald Reagan
+audio/bonafide_0140.wav,0,Richard Nixon
+audio/bonafide_0141.wav,0,Donald Trump
+audio/bonafide_0142.wav,0,Barack Obama
+audio/spoof_0081.wav,1,John Cleese
+audio/spoof_0082.wav,1,Bill Clinton
+audio/spoof_0083.wav,1,Nelson Mandela
+audio/bonafide_0143.wav,0,Barack Obama
+audio/bonafide_0144.wav,0,Alec Guinness
+audio/spoof_0084.wav,1,The Notorious B.I.G.
+audio/bonafide_0145.wav,0,Christopher Hitchens
+audio/spoof_0085.wav,1,Frank Sinatra
+audio/bonafide_0146.wav,0,Alexandria Ocasio-Cortez
+audio/bonafide_0147.wav,0,Louis Farrakhan
+audio/bonafide_0148.wav,0,Winston Churchill
+audio/bonafide_0149.wav,0,Christopher Hitchens
+audio/spoof_0086.wav,1,Alec Guinness
+audio/bonafide_0150.wav,0,Christopher Hitchens
+audio/bonafide_0151.wav,0,Bill Clinton
+audio/bonafide_0152.wav,0,Louis Farrakhan
+audio/bonafide_0153.wav,0,JFK
+audio/bonafide_0154.wav,0,Ronald Reagan
+audio/bonafide_0155.wav,0,Ayn Rand
+audio/bonafide_0156.wav,0,Donald Trump
+audio/bonafide_0157.wav,0,Barack Obama
+audio/bonafide_0158.wav,0,Ronald Reagan
+audio/spoof_0087.wav,1,Martin Luther King
+audio/bonafide_0159.wav,0,Norm MacDonald
+audio/bonafide_0160.wav,0,Christopher Hitchens
+audio/bonafide_0161.wav,0,Alec Guinness
+audio/bonafide_0162.wav,0,Donald Trump
+audio/spoof_0088.wav,1,Barack Obama
+audio/bonafide_0163.wav,0,Queen Elizabeth II
+audio/spoof_0089.wav,1,Alexandria Ocasio-Cortez
+audio/bonafide_0164.wav,0,Bernie Sanders
+audio/bonafide_0165.wav,0,Alec Guinness
+audio/bonafide_0166.wav,0,Winston Churchill
+audio/spoof_0090.wav,1,Richard Nixon
+audio/bonafide_0167.wav,0,Barack Obama
+audio/bonafide_0168.wav,0,Bernie Sanders
+audio/bonafide_0169.wav,0,Donald Trump
+audio/spoof_0091.wav,1,Alec Guinness
+audio/bonafide_0170.wav,0,Arnold Schwarzenegger
+audio/bonafide_0171.wav,0,Ayn Rand
+audio/bonafide_0172.wav,0,Gilbert Gottfried
+audio/spoof_0092.wav,1,Alec Guinness
+audio/bonafide_0173.wav,0,Bernie Sanders
+audio/spoof_0093.wav,1,Alec Guinness
+audio/bonafide_0174.wav,0,Donald Trump
+audio/spoof_0094.wav,1,Ayn Rand
+audio/spoof_0095.wav,1,Queen Elizabeth II
+audio/spoof_0096.wav,1,Ronald Reagan
+audio/bonafide_0175.wav,0,Barack Obama
+audio/spoof_0097.wav,1,Mark Zuckerberg
+audio/bonafide_0176.wav,0,Bill Burr
+audio/spoof_0098.wav,1,Alec Guinness
+audio/bonafide_0177.wav,0,Barack Obama
+audio/spoof_0099.wav,1,Ayn Rand
+audio/spoof_0100.wav,1,Bill Clinton
+audio/bonafide_0178.wav,0,Donald Trump
+audio/bonafide_0179.wav,0,Bernie Sanders
+audio/bonafide_0180.wav,0,Barack Obama
+audio/spoof_0101.wav,1,Ayn Rand
+audio/spoof_0102.wav,1,John Cleese
+audio/bonafide_0181.wav,0,Ayn Rand
+audio/spoof_0103.wav,1,Winston Churchill
+audio/bonafide_0182.wav,0,George Carlin
+audio/spoof_0104.wav,1,Bill Clinton
+audio/bonafide_0183.wav,0,Barack Obama
+audio/bonafide_0184.wav,0,Ayn Rand
+audio/bonafide_0185.wav,0,Donald Trump
+audio/bonafide_0186.wav,0,Winston Churchill
+audio/spoof_0105.wav,1,Bernie Sanders
+audio/spoof_0106.wav,1,Bernie Sanders
+audio/spoof_0107.wav,1,Bernie Sanders
+audio/spoof_0108.wav,1,Dwight Eisenhower
+audio/spoof_0109.wav,1,Alec Guinness
+audio/spoof_0110.wav,1,Malcolm X
+audio/bonafide_0187.wav,0,Ayn Rand
+audio/bonafide_0188.wav,0,Donald Trump
+audio/bonafide_0189.wav,0,Bill Clinton
+audio/bonafide_0190.wav,0,Barack Obama
+audio/spoof_0111.wav,1,Alec Guinness
+audio/spoof_0112.wav,1,Louis Farrakhan
+audio/bonafide_0191.wav,0,Barack Obama
+audio/bonafide_0192.wav,0,Martin Luther King
+audio/bonafide_0193.wav,0,George Carlin
+audio/spoof_0113.wav,1,Ronald Reagan
+audio/bonafide_0194.wav,0,Ronald Reagan
+audio/bonafide_0195.wav,0,Bernie Sanders
+audio/spoof_0114.wav,1,JFK
+audio/bonafide_0196.wav,0,Barack Obama
+audio/spoof_0115.wav,1,Christopher Hitchens
+audio/bonafide_0197.wav,0,Nelson Mandela
+audio/bonafide_0198.wav,0,Christopher Hitchens
+audio/bonafide_0199.wav,0,Barack Obama
+audio/bonafide_0200.wav,0,Bernie Sanders
+audio/spoof_0116.wav,1,Arnold Schwarzenegger
+audio/spoof_0117.wav,1,Gilbert Gottfried
+audio/spoof_0118.wav,1,Ronald Reagan
+audio/bonafide_0201.wav,0,FDR
+audio/bonafide_0202.wav,0,Christopher Hitchens
+audio/bonafide_0203.wav,0,Barack Obama
+audio/bonafide_0204.wav,0,Louis Farrakhan
+audio/spoof_0119.wav,1,Barack Obama
+audio/bonafide_0205.wav,0,Barack Obama
+audio/bonafide_0206.wav,0,Robert Kardashian
+audio/bonafide_0207.wav,0,Barack Obama
+audio/bonafide_0208.wav,0,Ronald Reagan
+audio/bonafide_0209.wav,0,John Cleese
+audio/bonafide_0210.wav,0,Bernie Sanders
+audio/bonafide_0211.wav,0,Barack Obama
+audio/bonafide_0212.wav,0,Malcolm X
+audio/bonafide_0213.wav,0,FDR
+audio/bonafide_0214.wav,0,Barack Obama
+audio/bonafide_0215.wav,0,Bill Burr
+audio/bonafide_0216.wav,0,Robert Kardashian
+audio/bonafide_0217.wav,0,Bernie Sanders
+audio/spoof_0120.wav,1,Ronald Reagan
+audio/spoof_0121.wav,1,Ronald Reagan
+audio/bonafide_0218.wav,0,Ronald Reagan
+audio/spoof_0122.wav,1,Bill Clinton
+audio/spoof_0123.wav,1,Frank Sinatra
+audio/bonafide_0219.wav,0,Alec Guinness
+audio/spoof_0124.wav,1,Kamala Harris
+audio/bonafide_0220.wav,0,Mark Zuckerberg
+audio/spoof_0125.wav,1,Richard Nixon
+audio/spoof_0126.wav,1,George W. Bush
+audio/bonafide_0221.wav,0,Donald Trump
+audio/spoof_0127.wav,1,Alec Guinness
+audio/bonafide_0222.wav,0,Winston Churchill
+audio/spoof_0128.wav,1,Bill Clinton
+audio/bonafide_0223.wav,0,Barack Obama
+audio/spoof_0129.wav,1,Orson Welles
+audio/spoof_0130.wav,1,Martin Luther King
+audio/bonafide_0224.wav,0,Bill Clinton
+audio/bonafide_0225.wav,0,Ronald Reagan
+audio/spoof_0131.wav,1,Ronald Reagan
+audio/bonafide_0226.wav,0,Ayn Rand
+audio/bonafide_0227.wav,0,Louis Farrakhan
+audio/bonafide_0228.wav,0,Barack Obama
+audio/spoof_0132.wav,1,Bill Clinton
+audio/bonafide_0229.wav,0,Bill Clinton
+audio/bonafide_0230.wav,0,Barack Obama
+audio/bonafide_0231.wav,0,Alexandria Ocasio-Cortez
+audio/bonafide_0232.wav,0,Barack Obama
+audio/bonafide_0233.wav,0,Bill Clinton
+audio/bonafide_0234.wav,0,Winston Churchill
+audio/spoof_0133.wav,1,Arnold Schwarzenegger
+audio/bonafide_0235.wav,0,Barack Obama
+audio/bonafide_0236.wav,0,Christopher Hitchens
+audio/bonafide_0237.wav,0,Louis Farrakhan
+audio/spoof_0134.wav,1,Alec Guinness
+audio/bonafide_0238.wav,0,Ayn Rand
+audio/spoof_0135.wav,1,Christopher Hitchens
+audio/spoof_0136.wav,1,Alec Guinness
+audio/bonafide_0239.wav,0,Alec Guinness
+audio/bonafide_0240.wav,0,Barack Obama
+audio/bonafide_0241.wav,0,Ayn Rand
+audio/bonafide_0242.wav,0,Christopher Hitchens
+audio/spoof_0137.wav,1,Alec Guinness
+audio/bonafide_0243.wav,0,Barack Obama
+audio/bonafide_0244.wav,0,Arnold Schwarzenegger
+audio/bonafide_0245.wav,0,Ronald Reagan
+audio/bonafide_0246.wav,0,Donald Trump
+audio/bonafide_0247.wav,0,Louis Farrakhan
+audio/bonafide_0248.wav,0,Christopher Hitchens
+audio/bonafide_0249.wav,0,Alec Guinness
+audio/bonafide_0250.wav,0,Barack Obama
+audio/bonafide_0251.wav,0,Richard Nixon
+audio/spoof_0138.wav,1,Louis Farrakhan
+audio/spoof_0139.wav,1,Ronald Reagan
+audio/spoof_0140.wav,1,Donald Trump
+audio/spoof_0141.wav,1,Alec Guinness
+audio/bonafide_0252.wav,0,Barack Obama
+audio/spoof_0142.wav,1,Martin Luther King
+audio/bonafide_0253.wav,0,Milton Friedman
+audio/spoof_0143.wav,1,Mark Zuckerberg
+audio/spoof_0144.wav,1,Bernie Sanders
+audio/spoof_0145.wav,1,Alec Guinness
+audio/bonafide_0254.wav,0,Donald Trump
+audio/bonafide_0255.wav,0,Winston Churchill
+audio/spoof_0146.wav,1,Alan Watts
+audio/spoof_0147.wav,1,FDR
+audio/bonafide_0256.wav,0,Barack Obama
+audio/bonafide_0257.wav,0,Christopher Hitchens
+audio/bonafide_0258.wav,0,Donald Trump
+audio/bonafide_0259.wav,0,Donald Trump
+audio/spoof_0148.wav,1,2Pac
+audio/bonafide_0260.wav,0,Bernie Sanders
+audio/bonafide_0261.wav,0,Boris Johnson
+audio/bonafide_0262.wav,0,Donald Trump
+audio/bonafide_0263.wav,0,JFK
+audio/bonafide_0264.wav,0,Donald Trump
+audio/bonafide_0265.wav,0,Dwight Eisenhower
+audio/bonafide_0266.wav,0,Christopher Hitchens
+audio/spoof_0149.wav,1,Nelson Mandela
+audio/bonafide_0267.wav,0,Robert Kardashian
+audio/bonafide_0268.wav,0,Nick Offerman
+audio/bonafide_0269.wav,0,Barack Obama
+audio/bonafide_0270.wav,0,Barack Obama
+audio/spoof_0150.wav,1,Bernie Sanders
+audio/spoof_0151.wav,1,Bernie Sanders
+audio/bonafide_0271.wav,0,Louis Farrakhan
+audio/bonafide_0272.wav,0,Bernie Sanders
+audio/bonafide_0273.wav,0,George Carlin
+audio/bonafide_0274.wav,0,Dwight Eisenhower
+audio/spoof_0152.wav,1,Mark Zuckerberg
+audio/bonafide_0275.wav,0,Barack Obama
+audio/bonafide_0276.wav,0,Bernie Sanders
+audio/bonafide_0277.wav,0,Alec Guinness
+audio/bonafide_0278.wav,0,Donald Trump
+audio/spoof_0153.wav,1,Alan Watts
+audio/spoof_0154.wav,1,Bob Ross
+audio/bonafide_0279.wav,0,Donald Trump
+audio/bonafide_0280.wav,0,JFK
+audio/bonafide_0281.wav,0,Mark Zuckerberg
+audio/spoof_0155.wav,1,Boris Johnson
+audio/bonafide_0282.wav,0,Donald Trump
+audio/bonafide_0283.wav,0,Tucker Carlson
+audio/spoof_0156.wav,1,Donald Trump
+audio/spoof_0157.wav,1,Bernie Sanders
+audio/bonafide_0284.wav,0,Gilbert Gottfried
+audio/spoof_0158.wav,1,Arnold Schwarzenegger
+audio/spoof_0159.wav,1,Nelson Mandela
+audio/spoof_0160.wav,1,Mark Zuckerberg
+audio/bonafide_0285.wav,0,Bernie Sanders
+audio/bonafide_0286.wav,0,Bernie Sanders
+audio/bonafide_0287.wav,0,Barack Obama
+audio/bonafide_0288.wav,0,Ayn Rand
+audio/bonafide_0289.wav,0,Ayn Rand
+audio/spoof_0161.wav,1,Winston Churchill
+audio/bonafide_0290.wav,0,Bernie Sanders
+audio/bonafide_0291.wav,0,Donald Trump
+audio/spoof_0162.wav,1,Ronald Reagan
+audio/bonafide_0292.wav,0,Robert Kardashian
+audio/bonafide_0293.wav,0,Donald Trump
+audio/spoof_0163.wav,1,Ronald Reagan
+audio/bonafide_0294.wav,0,Christopher Hitchens
+audio/bonafide_0295.wav,0,Bernie Sanders
+audio/spoof_0164.wav,1,Martin Luther King
+audio/bonafide_0296.wav,0,Alec Guinness
+audio/bonafide_0297.wav,0,Ayn Rand
+audio/spoof_0165.wav,1,Ronald Reagan
+audio/spoof_0166.wav,1,Bernie Sanders
+audio/bonafide_0298.wav,0,Barack Obama
+audio/spoof_0167.wav,1,Alec Guinness
+audio/bonafide_0299.wav,0,Donald Trump
+audio/bonafide_0300.wav,0,Donald Trump
+audio/bonafide_0301.wav,0,Barack Obama
+audio/bonafide_0302.wav,0,Barack Obama
+audio/bonafide_0303.wav,0,Milton Friedman
+audio/bonafide_0304.wav,0,Alec Guinness
+audio/bonafide_0305.wav,0,Barack Obama
+audio/spoof_0168.wav,1,Donald Trump
+audio/bonafide_0306.wav,0,Christopher Hitchens
+audio/bonafide_0307.wav,0,Donald Trump
+audio/bonafide_0308.wav,0,Alec Guinness
+audio/bonafide_0309.wav,0,Donald Trump
+audio/bonafide_0310.wav,0,Bernie Sanders
+audio/bonafide_0311.wav,0,Donald Trump
+audio/spoof_0169.wav,1,Alec Guinness
+audio/bonafide_0312.wav,0,Donald Trump
+audio/bonafide_0313.wav,0,Barack Obama
+audio/spoof_0170.wav,1,Alec Guinness
+audio/bonafide_0314.wav,0,Bill Clinton
+audio/bonafide_0315.wav,0,Ayn Rand
+audio/bonafide_0316.wav,0,Alec Guinness
+audio/spoof_0171.wav,1,Alec Guinness
+audio/spoof_0172.wav,1,Gilbert Gottfried
+audio/spoof_0173.wav,1,Gilbert Gottfried
+audio/spoof_0174.wav,1,Norm MacDonald
+audio/spoof_0175.wav,1,Ronald Reagan
+audio/spoof_0176.wav,1,Milton Friedman
+audio/spoof_0177.wav,1,Richard Nixon
+audio/spoof_0178.wav,1,Bernie Sanders
+audio/bonafide_0317.wav,0,FDR
+audio/bonafide_0318.wav,0,Alec Guinness
+audio/bonafide_0319.wav,0,Bernie Sanders
+audio/bonafide_0320.wav,0,Donald Trump
+audio/bonafide_0321.wav,0,Christopher Hitchens
+audio/bonafide_0322.wav,0,Christopher Hitchens
+audio/spoof_0179.wav,1,Alec Guinness
+audio/bonafide_0323.wav,0,Bernie Sanders
+audio/bonafide_0324.wav,0,Christopher Hitchens
+audio/spoof_0180.wav,1,Milton Friedman
+audio/bonafide_0325.wav,0,Bernie Sanders
+audio/bonafide_0326.wav,0,Arnold Schwarzenegger
+audio/bonafide_0327.wav,0,Barack Obama
+audio/spoof_0181.wav,1,Gilbert Gottfried
+audio/bonafide_0328.wav,0,Alan Watts
+audio/bonafide_0329.wav,0,Bill Burr
+audio/spoof_0182.wav,1,Louis C.K.
+audio/bonafide_0330.wav,0,FDR
+audio/spoof_0183.wav,1,Richard Nixon
+audio/spoof_0184.wav,1,Bill Clinton
+audio/bonafide_0331.wav,0,JFK
+audio/bonafide_0332.wav,0,Donald Trump
+audio/bonafide_0333.wav,0,Milton Friedman
+audio/spoof_0185.wav,1,Alec Guinness
+audio/bonafide_0334.wav,0,Barack Obama
+audio/bonafide_0335.wav,0,Barack Obama
+audio/bonafide_0336.wav,0,Alec Guinness
+audio/bonafide_0337.wav,0,Louis Farrakhan
+audio/bonafide_0338.wav,0,Barack Obama
+audio/spoof_0186.wav,1,Mark Zuckerberg
+audio/spoof_0187.wav,1,The Notorious B.I.G.
+audio/spoof_0188.wav,1,FDR
+audio/spoof_0189.wav,1,Alan Watts
+audio/bonafide_0339.wav,0,Alec Guinness
+audio/bonafide_0340.wav,0,Barack Obama
+audio/spoof_0190.wav,1,Ronald Reagan
+audio/bonafide_0341.wav,0,John Cleese
+audio/bonafide_0342.wav,0,Donald Trump
+audio/bonafide_0343.wav,0,Barack Obama
+audio/spoof_0191.wav,1,The Notorious B.I.G.
+audio/spoof_0192.wav,1,Winston Churchill
+audio/spoof_0193.wav,1,JFK
+audio/spoof_0194.wav,1,The Notorious B.I.G.
+audio/bonafide_0344.wav,0,Bernie Sanders
+audio/spoof_0195.wav,1,Ayn Rand
+audio/spoof_0196.wav,1,Ayn Rand
+audio/spoof_0197.wav,1,Louis Farrakhan
+audio/bonafide_0345.wav,0,Winston Churchill
+audio/spoof_0198.wav,1,Alec Guinness
+audio/spoof_0199.wav,1,Milton Friedman
+audio/spoof_0200.wav,1,Bernie Sanders
+audio/spoof_0201.wav,1,FDR
+audio/bonafide_0346.wav,0,Bernie Sanders
+audio/spoof_0202.wav,1,JFK
+audio/spoof_0203.wav,1,Mark Zuckerberg
+audio/bonafide_0347.wav,0,Donald Trump
+audio/bonafide_0348.wav,0,Alexandria Ocasio-Cortez
+audio/bonafide_0349.wav,0,Donald Trump
+audio/bonafide_0350.wav,0,Winston Churchill
+audio/bonafide_0351.wav,0,Donald Trump
+audio/bonafide_0352.wav,0,Donald Trump
+audio/spoof_0204.wav,1,Barack Obama
+audio/bonafide_0353.wav,0,Alec Guinness
+audio/bonafide_0354.wav,0,Ayn Rand
+audio/spoof_0205.wav,1,Malcolm X
+audio/spoof_0206.wav,1,Alec Guinness
+audio/spoof_0207.wav,1,Alec Guinness
+audio/bonafide_0355.wav,0,Bill Clinton
+audio/bonafide_0356.wav,0,Mark Zuckerberg
+audio/spoof_0208.wav,1,Queen Elizabeth II
+audio/spoof_0209.wav,1,Alec Guinness
+audio/spoof_0210.wav,1,Richard Nixon
+audio/bonafide_0357.wav,0,Adam Driver
+audio/spoof_0211.wav,1,Bernie Sanders
+audio/spoof_0212.wav,1,The Notorious B.I.G.
+audio/spoof_0213.wav,1,Christopher Hitchens
+audio/spoof_0214.wav,1,The Notorious B.I.G.
+audio/spoof_0215.wav,1,Christopher Hitchens
+audio/spoof_0216.wav,1,Alec Guinness
+audio/bonafide_0358.wav,0,2Pac
+audio/bonafide_0359.wav,0,Bernie Sanders
+audio/spoof_0217.wav,1,Christopher Hitchens
+audio/spoof_0218.wav,1,Ayn Rand
+audio/spoof_0219.wav,1,Alec Guinness
+audio/bonafide_0360.wav,0,Alec Guinness
+audio/bonafide_0361.wav,0,JFK
+audio/bonafide_0362.wav,0,Donald Trump
+audio/bonafide_0363.wav,0,Christopher Hitchens
+audio/bonafide_0364.wav,0,Christopher Hitchens
+audio/bonafide_0365.wav,0,Christopher Hitchens
+audio/spoof_0220.wav,1,Robert Kardashian
+audio/bonafide_0366.wav,0,Barack Obama
+audio/bonafide_0367.wav,0,Christopher Hitchens
+audio/bonafide_0368.wav,0,Barack Obama
+audio/bonafide_0369.wav,0,Alexandria Ocasio-Cortez
+audio/bonafide_0370.wav,0,Bernie Sanders
+audio/spoof_0221.wav,1,Bernie Sanders
+audio/spoof_0222.wav,1,Christopher Hitchens
+audio/spoof_0223.wav,1,Bernie Sanders
+audio/bonafide_0371.wav,0,Winston Churchill
+audio/bonafide_0372.wav,0,Donald Trump
+audio/spoof_0224.wav,1,Christopher Hitchens
+audio/bonafide_0373.wav,0,Winston Churchill
+audio/bonafide_0374.wav,0,Barack Obama
+audio/bonafide_0375.wav,0,Martin Luther King
+audio/bonafide_0376.wav,0,Bernie Sanders
+audio/bonafide_0377.wav,0,Donald Trump
+audio/bonafide_0378.wav,0,Mark Zuckerberg
+audio/bonafide_0379.wav,0,Bill Clinton
+audio/spoof_0225.wav,1,Donald Trump
+audio/bonafide_0380.wav,0,Alec Guinness
+audio/bonafide_0381.wav,0,Donald Trump
+audio/bonafide_0382.wav,0,Lyndon Johnson
+audio/spoof_0226.wav,1,Martin Luther King
+audio/bonafide_0383.wav,0,Bernie Sanders
+audio/bonafide_0384.wav,0,Bernie Sanders
+audio/bonafide_0385.wav,0,Ronald Reagan
+audio/bonafide_0386.wav,0,Bernie Sanders
+audio/spoof_0227.wav,1,Alec Guinness
+audio/bonafide_0387.wav,0,Ayn Rand
+audio/spoof_0228.wav,1,Mark Zuckerberg
+audio/bonafide_0388.wav,0,Ronald Reagan
+audio/bonafide_0389.wav,0,Martin Luther King
+audio/bonafide_0390.wav,0,Arnold Schwarzenegger
+audio/bonafide_0391.wav,0,Alec Guinness
+audio/spoof_0229.wav,1,Mark Zuckerberg
+audio/bonafide_0392.wav,0,Barack Obama
+audio/bonafide_0393.wav,0,Bill Clinton
+audio/bonafide_0394.wav,0,Mark Zuckerberg
+audio/spoof_0230.wav,1,Ronald Reagan
+audio/bonafide_0395.wav,0,Barack Obama
+audio/spoof_0231.wav,1,Mark Zuckerberg
+audio/bonafide_0396.wav,0,Bill Clinton
+audio/bonafide_0397.wav,0,George Carlin
+audio/bonafide_0398.wav,0,Martin Luther King
+audio/spoof_0232.wav,1,Alec Guinness
+audio/bonafide_0399.wav,0,Winston Churchill
+audio/spoof_0233.wav,1,Ayn Rand
+audio/spoof_0234.wav,1,Bernie Sanders
+audio/spoof_0235.wav,1,Barack Obama
+audio/spoof_0236.wav,1,Donald Trump
+audio/spoof_0237.wav,1,Queen Elizabeth II
+audio/bonafide_0400.wav,0,Donald Trump
+audio/spoof_0238.wav,1,Martin Luther King
+audio/bonafide_0401.wav,0,Barack Obama
+audio/spoof_0239.wav,1,Martin Luther King
+audio/bonafide_0402.wav,0,Alec Guinness
+audio/bonafide_0403.wav,0,Donald Trump
+audio/bonafide_0404.wav,0,Bernie Sanders
+audio/bonafide_0405.wav,0,Donald Trump
+audio/bonafide_0406.wav,0,Bill Burr
+audio/spoof_0240.wav,1,Ronald Reagan
+audio/bonafide_0407.wav,0,Milton Friedman
+audio/bonafide_0408.wav,0,Donald Trump
+audio/bonafide_0409.wav,0,Nick Offerman
+audio/spoof_0241.wav,1,Bernie Sanders
+audio/bonafide_0410.wav,0,Bill Clinton
+audio/bonafide_0411.wav,0,George Carlin
+audio/bonafide_0412.wav,0,Alec Guinness
+audio/spoof_0242.wav,1,Alan Watts
+audio/bonafide_0413.wav,0,Richard Nixon
+audio/spoof_0243.wav,1,Bill Clinton
+audio/bonafide_0414.wav,0,Donald Trump
+audio/spoof_0244.wav,1,Christopher Hitchens
+audio/spoof_0245.wav,1,Bill Clinton
+audio/spoof_0246.wav,1,Christopher Hitchens
+audio/bonafide_0415.wav,0,Bill Clinton
+audio/spoof_0247.wav,1,Donald Trump
+audio/spoof_0248.wav,1,Ayn Rand
+audio/bonafide_0416.wav,0,Christopher Hitchens
+audio/bonafide_0417.wav,0,Barack Obama
+audio/bonafide_0418.wav,0,Donald Trump
+audio/bonafide_0419.wav,0,Barack Obama
+audio/bonafide_0420.wav,0,Barack Obama
+audio/bonafide_0421.wav,0,Christopher Hitchens
+audio/bonafide_0422.wav,0,Robert Kardashian
+audio/bonafide_0423.wav,0,Barack Obama
+audio/bonafide_0424.wav,0,Barack Obama
+audio/bonafide_0425.wav,0,Alec Guinness
+audio/bonafide_0426.wav,0,Alec Guinness
+audio/bonafide_0427.wav,0,Barack Obama
+audio/spoof_0249.wav,1,Richard Nixon
+audio/bonafide_0428.wav,0,Mark Zuckerberg
+audio/bonafide_0429.wav,0,Barack Obama
+audio/spoof_0250.wav,1,Bill Clinton
+audio/spoof_0251.wav,1,Bill Clinton
+audio/spoof_0252.wav,1,George W. Bush
+audio/bonafide_0430.wav,0,Bill Clinton
+audio/bonafide_0431.wav,0,Alexandria Ocasio-Cortez
+audio/spoof_0253.wav,1,Bernie Sanders
+audio/bonafide_0432.wav,0,Arnold Schwarzenegger
+audio/spoof_0254.wav,1,2Pac
+audio/spoof_0255.wav,1,Norm MacDonald
+audio/bonafide_0433.wav,0,Dwight Eisenhower
+audio/spoof_0256.wav,1,Alec Guinness
+audio/bonafide_0434.wav,0,Louis Farrakhan
+audio/spoof_0257.wav,1,Louis Farrakhan
+audio/bonafide_0435.wav,0,Bernie Sanders
+audio/bonafide_0436.wav,0,Donald Trump
+audio/spoof_0258.wav,1,FDR
+audio/spoof_0259.wav,1,Ronald Reagan
+audio/bonafide_0437.wav,0,Donald Trump
+audio/bonafide_0438.wav,0,Barack Obama
+audio/bonafide_0439.wav,0,Barack Obama
+audio/bonafide_0440.wav,0,Mr. Rogers
+audio/bonafide_0441.wav,0,Barack Obama
+audio/bonafide_0442.wav,0,Bernie Sanders
+audio/spoof_0260.wav,1,Bill Burr
+audio/spoof_0261.wav,1,Alec Guinness
+audio/bonafide_0443.wav,0,Louis Farrakhan
+audio/bonafide_0444.wav,0,Mark Zuckerberg
+audio/bonafide_0445.wav,0,Alec Guinness
+audio/spoof_0262.wav,1,Ayn Rand
+audio/spoof_0263.wav,1,Ayn Rand
+audio/bonafide_0446.wav,0,Bernie Sanders
+audio/bonafide_0447.wav,0,Barack Obama
+audio/spoof_0264.wav,1,George W. Bush
+audio/bonafide_0448.wav,0,JFK
+audio/bonafide_0449.wav,0,Donald Trump
+audio/spoof_0265.wav,1,Bernie Sanders
+audio/bonafide_0450.wav,0,Alec Guinness
+audio/spoof_0266.wav,1,Mark Zuckerberg
+audio/spoof_0267.wav,1,Bernie Sanders
+audio/bonafide_0451.wav,0,Barack Obama
+audio/spoof_0268.wav,1,Mark Zuckerberg
+audio/bonafide_0452.wav,0,Barack Obama
+audio/spoof_0269.wav,1,Ronald Reagan
+audio/bonafide_0453.wav,0,Arnold Schwarzenegger
+audio/bonafide_0454.wav,0,Ayn Rand
+audio/bonafide_0455.wav,0,Boris Johnson
+audio/bonafide_0456.wav,0,Ayn Rand
+audio/bonafide_0457.wav,0,JFK
+audio/spoof_0270.wav,1,Jerry Seinfeld
+audio/bonafide_0458.wav,0,Billie Eilish
+audio/bonafide_0459.wav,0,JFK
+audio/bonafide_0460.wav,0,Alec Guinness
+audio/spoof_0271.wav,1,Mark Zuckerberg
+audio/bonafide_0461.wav,0,Barack Obama
+audio/bonafide_0462.wav,0,Barack Obama
+audio/bonafide_0463.wav,0,Ayn Rand
+audio/bonafide_0464.wav,0,Bernie Sanders
+audio/spoof_0272.wav,1,Bill Clinton
+audio/bonafide_0465.wav,0,Louis Farrakhan
+audio/bonafide_0466.wav,0,Winston Churchill
+audio/bonafide_0467.wav,0,Donald Trump
+audio/bonafide_0468.wav,0,Alec Guinness
+audio/bonafide_0469.wav,0,Robert Kardashian
+audio/spoof_0273.wav,1,George Carlin
+audio/bonafide_0470.wav,0,Martin Luther King
+audio/bonafide_0471.wav,0,Bernie Sanders
+audio/bonafide_0472.wav,0,Barack Obama
+audio/bonafide_0473.wav,0,Donald Trump
+audio/bonafide_0474.wav,0,Ayn Rand
+audio/spoof_0274.wav,1,Bernie Sanders
+audio/bonafide_0475.wav,0,Louis Farrakhan
+audio/bonafide_0476.wav,0,Ayn Rand
+audio/bonafide_0477.wav,0,Martin Luther King
+audio/spoof_0275.wav,1,Queen Elizabeth II
+audio/bonafide_0478.wav,0,Barack Obama
+audio/bonafide_0479.wav,0,Christopher Hitchens
+audio/spoof_0276.wav,1,Bernie Sanders
+audio/bonafide_0480.wav,0,Ronald Reagan
+audio/spoof_0277.wav,1,Barack Obama
+audio/bonafide_0481.wav,0,Louis Farrakhan
+audio/bonafide_0482.wav,0,Barack Obama
+audio/bonafide_0483.wav,0,Donald Trump
+audio/bonafide_0484.wav,0,Alan Watts
+audio/spoof_0278.wav,1,Norm MacDonald
+audio/spoof_0279.wav,1,Alec Guinness
+audio/bonafide_0485.wav,0,Alec Guinness
+audio/bonafide_0486.wav,0,Ronald Reagan
+audio/bonafide_0487.wav,0,Donald Trump
+audio/spoof_0280.wav,1,Ronald Reagan
+audio/spoof_0281.wav,1,Queen Elizabeth II
+audio/spoof_0282.wav,1,Christopher Hitchens
+audio/bonafide_0488.wav,0,Donald Trump
+audio/bonafide_0489.wav,0,Donald Trump
+audio/spoof_0283.wav,1,Bill Burr
+audio/bonafide_0490.wav,0,Barack Obama
+audio/bonafide_0491.wav,0,Barack Obama
+audio/bonafide_0492.wav,0,Barack Obama
+audio/bonafide_0493.wav,0,Malcolm X
+audio/bonafide_0494.wav,0,Boris Johnson
+audio/bonafide_0495.wav,0,Donald Trump
+audio/bonafide_0496.wav,0,Jeff Goldblum
+audio/spoof_0284.wav,1,Milton Friedman
+audio/spoof_0285.wav,1,Harry Truman
+audio/spoof_0286.wav,1,Alec Guinness
+audio/spoof_0287.wav,1,Mark Zuckerberg
+audio/bonafide_0497.wav,0,Arnold Schwarzenegger
+audio/bonafide_0498.wav,0,Alec Guinness
+audio/spoof_0288.wav,1,Ayn Rand
+audio/bonafide_0499.wav,0,George Carlin
+audio/bonafide_0500.wav,0,Ayn Rand
+audio/bonafide_0501.wav,0,Alec Guinness
+audio/spoof_0289.wav,1,Arnold Schwarzenegger
+audio/bonafide_0502.wav,0,Ayn Rand
+audio/bonafide_0503.wav,0,Lyndon Johnson
+audio/bonafide_0504.wav,0,Bill Clinton
+audio/spoof_0290.wav,1,Bill Burr
+audio/bonafide_0505.wav,0,Ayn Rand
+audio/spoof_0291.wav,1,Scarlett Johansson
+audio/spoof_0292.wav,1,Ayn Rand
+audio/bonafide_0506.wav,0,Bernie Sanders
+audio/spoof_0293.wav,1,Ronald Reagan
+audio/bonafide_0507.wav,0,JFK
+audio/spoof_0294.wav,1,Ayn Rand
+audio/spoof_0295.wav,1,Winston Churchill
+audio/bonafide_0508.wav,0,Barack Obama
+audio/bonafide_0509.wav,0,Bill Clinton
+audio/bonafide_0510.wav,0,Ronald Reagan
+audio/spoof_0296.wav,1,Bernie Sanders
+audio/bonafide_0511.wav,0,Christopher Hitchens
+audio/spoof_0297.wav,1,Nelson Mandela
+audio/bonafide_0512.wav,0,Barack Obama
+audio/spoof_0298.wav,1,Kanye West
+audio/bonafide_0513.wav,0,Bernie Sanders
+audio/bonafide_0514.wav,0,Barack Obama
+audio/bonafide_0515.wav,0,Donald Trump
+audio/bonafide_0516.wav,0,Winston Churchill
+audio/spoof_0299.wav,1,Bernie Sanders
+audio/bonafide_0517.wav,0,Louis Farrakhan
+audio/bonafide_0518.wav,0,Alec Guinness
+audio/bonafide_0519.wav,0,Barack Obama
+audio/spoof_0300.wav,1,Barack Obama
+audio/bonafide_0520.wav,0,Alec Guinness
+audio/spoof_0301.wav,1,Ayn Rand
+audio/bonafide_0521.wav,0,Donald Trump
+audio/bonafide_0522.wav,0,Barack Obama
+audio/bonafide_0523.wav,0,Arnold Schwarzenegger
+audio/bonafide_0524.wav,0,Mark Zuckerberg
+audio/spoof_0302.wav,1,Nelson Mandela
+audio/bonafide_0525.wav,0,Bill Clinton
+audio/bonafide_0526.wav,0,Donald Trump
+audio/bonafide_0527.wav,0,Barack Obama
+audio/bonafide_0528.wav,0,Nick Offerman
+audio/bonafide_0529.wav,0,Donald Trump
+audio/bonafide_0530.wav,0,Christopher Hitchens
+audio/spoof_0303.wav,1,Alec Guinness
+audio/spoof_0304.wav,1,Bernie Sanders
+audio/spoof_0305.wav,1,Ronald Reagan
+audio/bonafide_0531.wav,0,Bernie Sanders
+audio/spoof_0306.wav,1,Barack Obama
+audio/spoof_0307.wav,1,George W. Bush
+audio/spoof_0308.wav,1,Christopher Hitchens
+audio/spoof_0309.wav,1,Alec Guinness
+audio/spoof_0310.wav,1,Bernie Sanders
+audio/spoof_0311.wav,1,Alexandria Ocasio-Cortez
+audio/bonafide_0532.wav,0,JFK
+audio/bonafide_0533.wav,0,Donald Trump
+audio/bonafide_0534.wav,0,Ayn Rand
+audio/bonafide_0535.wav,0,Donald Trump
+audio/spoof_0312.wav,1,Alec Guinness
+audio/bonafide_0536.wav,0,Richard Nixon
+audio/bonafide_0537.wav,0,Winston Churchill
+audio/bonafide_0538.wav,0,Winston Churchill
+audio/spoof_0313.wav,1,Orson Welles
+audio/spoof_0314.wav,1,Richard Nixon
+audio/bonafide_0539.wav,0,Donald Trump
+audio/bonafide_0540.wav,0,FDR
+audio/spoof_0315.wav,1,Ronald Reagan
+audio/spoof_0316.wav,1,Barack Obama
+audio/bonafide_0541.wav,0,Jimmy Carter
+audio/bonafide_0542.wav,0,Donald Trump
+audio/bonafide_0543.wav,0,Barack Obama
+audio/bonafide_0544.wav,0,Donald Trump
+audio/bonafide_0545.wav,0,Donald Trump
+audio/bonafide_0546.wav,0,Ayn Rand
+audio/spoof_0317.wav,1,Ayn Rand
+audio/spoof_0318.wav,1,Ayn Rand
+audio/bonafide_0547.wav,0,Bernie Sanders
+audio/bonafide_0548.wav,0,JFK
+audio/spoof_0319.wav,1,Bill Clinton
+audio/bonafide_0549.wav,0,Alec Guinness
+audio/spoof_0320.wav,1,Milton Friedman
+audio/bonafide_0550.wav,0,Bill Clinton
+audio/bonafide_0551.wav,0,Mark Zuckerberg
+audio/spoof_0321.wav,1,JFK
+audio/spoof_0322.wav,1,Milton Friedman
+audio/bonafide_0552.wav,0,Alec Guinness
+audio/bonafide_0553.wav,0,FDR
+audio/spoof_0323.wav,1,Ayn Rand
+audio/bonafide_0554.wav,0,Donald Trump
+audio/spoof_0324.wav,1,Martin Luther King
+audio/bonafide_0555.wav,0,Alec Guinness
+audio/spoof_0325.wav,1,Bernie Sanders
+audio/spoof_0326.wav,1,Bernie Sanders
+audio/spoof_0327.wav,1,Bernie Sanders
+audio/spoof_0328.wav,1,Jerry Seinfeld
+audio/bonafide_0556.wav,0,Louis Farrakhan
+audio/bonafide_0557.wav,0,Donald Trump
+audio/bonafide_0558.wav,0,Donald Trump
+audio/spoof_0329.wav,1,Bill Clinton
+audio/spoof_0330.wav,1,Adam Driver
+audio/bonafide_0559.wav,0,Barack Obama
+audio/spoof_0331.wav,1,Mark Zuckerberg
+audio/bonafide_0560.wav,0,Alec Guinness
+audio/spoof_0332.wav,1,Martin Luther King
+audio/bonafide_0561.wav,0,Donald Trump
+audio/bonafide_0562.wav,0,Bill Clinton
+audio/bonafide_0563.wav,0,Milton Friedman
+audio/bonafide_0564.wav,0,Alec Guinness
+audio/spoof_0333.wav,1,Barack Obama
+audio/bonafide_0565.wav,0,Donald Trump
+audio/bonafide_0566.wav,0,Christopher Hitchens
+audio/spoof_0334.wav,1,Bernie Sanders
+audio/bonafide_0567.wav,0,Ronald Reagan
+audio/bonafide_0568.wav,0,FDR
+audio/spoof_0335.wav,1,Mr. Rogers
+audio/spoof_0336.wav,1,Gilbert Gottfried
+audio/bonafide_0569.wav,0,Donald Trump
+audio/bonafide_0570.wav,0,Queen Elizabeth II
+audio/spoof_0337.wav,1,Alec Guinness
+audio/spoof_0338.wav,1,Winston Churchill
+audio/bonafide_0571.wav,0,Bernie Sanders
+audio/bonafide_0572.wav,0,JFK
+audio/bonafide_0573.wav,0,Ayn Rand
+audio/bonafide_0574.wav,0,Christopher Hitchens
+audio/bonafide_0575.wav,0,Bill Clinton
+audio/bonafide_0576.wav,0,Barack Obama
+audio/spoof_0339.wav,1,Milton Friedman
+audio/bonafide_0577.wav,0,Ayn Rand
+audio/bonafide_0578.wav,0,Bill Clinton
+audio/bonafide_0579.wav,0,Donald Trump
+audio/bonafide_0580.wav,0,Donald Trump
+audio/bonafide_0581.wav,0,Barack Obama
+audio/bonafide_0582.wav,0,Nick Offerman
+audio/bonafide_0583.wav,0,Martin Luther King
+audio/spoof_0340.wav,1,Alec Guinness
+audio/bonafide_0584.wav,0,Christopher Hitchens
+audio/bonafide_0585.wav,0,Barack Obama
+audio/bonafide_0586.wav,0,Alec Guinness
+audio/bonafide_0587.wav,0,Bill Clinton
+audio/bonafide_0588.wav,0,Bernie Sanders
+audio/bonafide_0589.wav,0,Barack Obama
+audio/bonafide_0590.wav,0,Donald Trump
+audio/bonafide_0591.wav,0,Bill Clinton
+audio/spoof_0341.wav,1,Ayn Rand
+audio/bonafide_0592.wav,0,JFK
+audio/bonafide_0593.wav,0,Ronald Reagan
+audio/bonafide_0594.wav,0,Donald Trump
+audio/bonafide_0595.wav,0,FDR
+audio/spoof_0342.wav,1,FDR
+audio/bonafide_0596.wav,0,Bill Clinton
+audio/spoof_0343.wav,1,Christopher Hitchens
+audio/bonafide_0597.wav,0,George Carlin
+audio/spoof_0344.wav,1,Mark Zuckerberg
+audio/spoof_0345.wav,1,Orson Welles
+audio/spoof_0346.wav,1,Ayn Rand
+audio/bonafide_0598.wav,0,Bernie Sanders
+audio/bonafide_0599.wav,0,Bill Clinton
+audio/bonafide_0600.wav,0,Donald Trump
+audio/bonafide_0601.wav,0,FDR
+audio/bonafide_0602.wav,0,Bernie Sanders
+audio/spoof_0347.wav,1,Alec Guinness
+audio/bonafide_0603.wav,0,Boris Johnson
+audio/bonafide_0604.wav,0,Alec Guinness
+audio/spoof_0348.wav,1,JFK
+audio/bonafide_0605.wav,0,Bill Clinton
+audio/spoof_0349.wav,1,Winston Churchill
+audio/bonafide_0606.wav,0,Donald Trump
+audio/spoof_0350.wav,1,Bill Clinton
+audio/bonafide_0607.wav,0,Donald Trump
+audio/bonafide_0608.wav,0,Bernie Sanders
+audio/bonafide_0609.wav,0,Barack Obama
+audio/bonafide_0610.wav,0,Barack Obama
+audio/bonafide_0611.wav,0,Donald Trump
+audio/spoof_0351.wav,1,Ronald Reagan
+audio/bonafide_0612.wav,0,Alec Guinness
+audio/bonafide_0613.wav,0,Barack Obama
+audio/bonafide_0614.wav,0,Barack Obama
+audio/spoof_0352.wav,1,Winston Churchill
+audio/spoof_0353.wav,1,Kanye West
+audio/bonafide_0615.wav,0,JFK
+audio/spoof_0354.wav,1,Alec Guinness
+audio/bonafide_0616.wav,0,Christopher Hitchens
+audio/spoof_0355.wav,1,Alan Watts
+audio/bonafide_0617.wav,0,Barack Obama
+audio/bonafide_0618.wav,0,Arnold Schwarzenegger
+audio/bonafide_0619.wav,0,Barack Obama
+audio/bonafide_0620.wav,0,Winston Churchill
+audio/spoof_0356.wav,1,Alec Guinness
+audio/spoof_0357.wav,1,Mr. Rogers
+audio/spoof_0358.wav,1,Ayn Rand
+audio/spoof_0359.wav,1,Ayn Rand
+audio/bonafide_0621.wav,0,Nelson Mandela
+audio/spoof_0360.wav,1,Ronald Reagan
+audio/spoof_0361.wav,1,Ronald Reagan
+audio/bonafide_0622.wav,0,George Carlin
+audio/bonafide_0623.wav,0,Alec Guinness
+audio/bonafide_0624.wav,0,Donald Trump
+audio/bonafide_0625.wav,0,Ayn Rand
+audio/bonafide_0626.wav,0,JFK
+audio/spoof_0362.wav,1,Milton Friedman
+audio/spoof_0363.wav,1,Barack Obama
+audio/spoof_0364.wav,1,Bill Clinton
+audio/bonafide_0627.wav,0,Barack Obama
+audio/bonafide_0628.wav,0,JFK
+audio/bonafide_0629.wav,0,Alec Guinness
+audio/bonafide_0630.wav,0,Jeff Goldblum
+audio/spoof_0365.wav,1,Queen Elizabeth II
+audio/bonafide_0631.wav,0,Barack Obama
+audio/bonafide_0632.wav,0,Richard Nixon
+audio/spoof_0366.wav,1,Mr. Rogers
+audio/bonafide_0633.wav,0,Barack Obama
+audio/bonafide_0634.wav,0,Donald Trump
+audio/bonafide_0635.wav,0,Adam Driver
+audio/spoof_0367.wav,1,Bill Burr
+audio/bonafide_0636.wav,0,Bernie Sanders
+audio/bonafide_0637.wav,0,Donald Trump
+audio/spoof_0368.wav,1,Ayn Rand
+audio/bonafide_0638.wav,0,Donald Trump
+audio/spoof_0369.wav,1,2Pac
+audio/bonafide_0639.wav,0,Arnold Schwarzenegger
+audio/bonafide_0640.wav,0,Ronald Reagan
+audio/bonafide_0641.wav,0,George Carlin
+audio/spoof_0370.wav,1,Bernie Sanders
+audio/spoof_0371.wav,1,Christopher Hitchens
+audio/spoof_0372.wav,1,Martin Luther King
+audio/spoof_0373.wav,1,Alec Guinness
+audio/bonafide_0642.wav,0,Bernie Sanders
+audio/spoof_0374.wav,1,Ayn Rand
+audio/bonafide_0643.wav,0,Louis Farrakhan
+audio/bonafide_0644.wav,0,Barack Obama
+audio/spoof_0375.wav,1,Kanye West
+audio/spoof_0376.wav,1,Gilbert Gottfried
+audio/bonafide_0645.wav,0,FDR
+audio/bonafide_0646.wav,0,Alec Guinness
+audio/bonafide_0647.wav,0,Barack Obama
+audio/bonafide_0648.wav,0,Ayn Rand
+audio/bonafide_0649.wav,0,JFK
+audio/bonafide_0650.wav,0,Donald Trump
+audio/spoof_0377.wav,1,Tucker Carlson
+audio/bonafide_0651.wav,0,Donald Trump
+audio/spoof_0378.wav,1,Adam Driver
+audio/bonafide_0652.wav,0,JFK
+audio/bonafide_0653.wav,0,Ronald Reagan
+audio/spoof_0379.wav,1,Ayn Rand
+audio/spoof_0380.wav,1,Mark Zuckerberg
+audio/bonafide_0654.wav,0,Ronald Reagan
+audio/bonafide_0655.wav,0,Donald Trump
+audio/bonafide_0656.wav,0,Louis Farrakhan
+audio/bonafide_0657.wav,0,Alec Guinness
+audio/bonafide_0658.wav,0,Barack Obama
+audio/bonafide_0659.wav,0,Louis Farrakhan
+audio/bonafide_0660.wav,0,Ayn Rand
+audio/bonafide_0661.wav,0,Alexandria Ocasio-Cortez
+audio/bonafide_0662.wav,0,Bill Clinton
+audio/bonafide_0663.wav,0,Tucker Carlson
+audio/bonafide_0664.wav,0,Donald Trump
+audio/bonafide_0665.wav,0,Donald Trump
+audio/bonafide_0666.wav,0,Milton Friedman
+audio/spoof_0381.wav,1,The Notorious B.I.G.
+audio/bonafide_0667.wav,0,Barack Obama
+audio/bonafide_0668.wav,0,Barack Obama
+audio/spoof_0382.wav,1,Alec Guinness
+audio/bonafide_0669.wav,0,Malcolm X
+audio/bonafide_0670.wav,0,Martin Luther King
+audio/bonafide_0671.wav,0,Queen Elizabeth II
+audio/bonafide_0672.wav,0,Bernie Sanders
+audio/bonafide_0673.wav,0,Bill Clinton
+audio/bonafide_0674.wav,0,Donald Trump
+audio/bonafide_0675.wav,0,Alec Guinness
+audio/spoof_0383.wav,1,Jerry Seinfeld
+audio/bonafide_0676.wav,0,Mark Zuckerberg
+audio/spoof_0384.wav,1,Orson Welles
+audio/bonafide_0677.wav,0,Ayn Rand
+audio/bonafide_0678.wav,0,Barack Obama
+audio/spoof_0385.wav,1,Bill Clinton
+audio/bonafide_0679.wav,0,Donald Trump
+audio/bonafide_0680.wav,0,Bernie Sanders
+audio/bonafide_0681.wav,0,Mark Zuckerberg
+audio/spoof_0386.wav,1,Ronald Reagan
+audio/spoof_0387.wav,1,Ayn Rand
+audio/bonafide_0682.wav,0,JFK
+audio/spoof_0388.wav,1,Queen Elizabeth II
+audio/bonafide_0683.wav,0,Barack Obama
+audio/spoof_0389.wav,1,Alec Guinness
+audio/bonafide_0684.wav,0,Barack Obama
+audio/bonafide_0685.wav,0,Donald Trump
+audio/bonafide_0686.wav,0,Donald Trump
+audio/bonafide_0687.wav,0,Ayn Rand
+audio/spoof_0390.wav,1,Alec Guinness
+audio/bonafide_0688.wav,0,Ayn Rand
+audio/bonafide_0689.wav,0,Alexandria Ocasio-Cortez
+audio/bonafide_0690.wav,0,Richard Nixon
+audio/spoof_0391.wav,1,Alec Guinness
+audio/bonafide_0691.wav,0,Bill Clinton
+audio/bonafide_0692.wav,0,Alec Guinness
+audio/bonafide_0693.wav,0,Donald Trump
+audio/bonafide_0694.wav,0,Barack Obama
+audio/spoof_0392.wav,1,Alec Guinness
+audio/bonafide_0695.wav,0,Martin Luther King
+audio/bonafide_0696.wav,0,Donald Trump
+audio/spoof_0393.wav,1,Queen Elizabeth II
+audio/bonafide_0697.wav,0,Bernie Sanders
+audio/spoof_0394.wav,1,Bernie Sanders
+audio/bonafide_0698.wav,0,Winston Churchill
+audio/bonafide_0699.wav,0,Donald Trump
+audio/spoof_0395.wav,1,Ronald Reagan
+audio/bonafide_0700.wav,0,Barack Obama
+audio/spoof_0396.wav,1,Alec Guinness
+audio/bonafide_0701.wav,0,Bill Clinton
+audio/bonafide_0702.wav,0,JFK
+audio/spoof_0397.wav,1,Barack Obama
+audio/bonafide_0703.wav,0,Mark Zuckerberg
+audio/bonafide_0704.wav,0,Barack Obama
+audio/bonafide_0705.wav,0,Barack Obama
+audio/bonafide_0706.wav,0,Alec Guinness
+audio/spoof_0398.wav,1,Ayn Rand
+audio/spoof_0399.wav,1,Queen Elizabeth II
+audio/bonafide_0707.wav,0,Alec Guinness
+audio/bonafide_0708.wav,0,Bill Clinton
+audio/bonafide_0709.wav,0,Christopher Hitchens
+audio/spoof_0400.wav,1,Bernie Sanders
+audio/bonafide_0710.wav,0,Bill Clinton
+audio/bonafide_0711.wav,0,Martin Luther King
+audio/bonafide_0712.wav,0,Bernie Sanders
+audio/spoof_0401.wav,1,Jerry Seinfeld
+audio/spoof_0402.wav,1,Mitch Hedberg
+audio/spoof_0403.wav,1,Bill Clinton
+audio/spoof_0404.wav,1,Ronald Reagan
+audio/bonafide_0713.wav,0,Donald Trump
+audio/bonafide_0714.wav,0,Bernie Sanders
+audio/bonafide_0715.wav,0,Martin Luther King
+audio/spoof_0405.wav,1,Alec Guinness
+audio/spoof_0406.wav,1,Louis C.K.
+audio/spoof_0407.wav,1,Alec Guinness
+audio/bonafide_0716.wav,0,Boris Johnson
+audio/bonafide_0717.wav,0,Christopher Hitchens
+audio/spoof_0408.wav,1,Frank Sinatra
+audio/spoof_0409.wav,1,Ronald Reagan
+audio/spoof_0410.wav,1,Alan Watts
+audio/bonafide_0718.wav,0,Alec Guinness
+audio/bonafide_0719.wav,0,Ayn Rand
+audio/bonafide_0720.wav,0,Alec Guinness
+audio/spoof_0411.wav,1,Alec Guinness
+audio/bonafide_0721.wav,0,Louis Farrakhan
+audio/bonafide_0722.wav,0,Barack Obama
+audio/bonafide_0723.wav,0,Barack Obama
+audio/spoof_0412.wav,1,Alec Guinness
+audio/bonafide_0724.wav,0,Bernie Sanders
+audio/bonafide_0725.wav,0,Bernie Sanders
+audio/spoof_0413.wav,1,JFK
+audio/bonafide_0726.wav,0,Bernie Sanders
+audio/bonafide_0727.wav,0,Barack Obama
+audio/bonafide_0728.wav,0,Barack Obama
+audio/bonafide_0729.wav,0,Donald Trump
+audio/spoof_0414.wav,1,Ronald Reagan
+audio/spoof_0415.wav,1,Ayn Rand
+audio/bonafide_0730.wav,0,Barack Obama
+audio/bonafide_0731.wav,0,Donald Trump
+audio/spoof_0416.wav,1,Gilbert Gottfried
+audio/bonafide_0732.wav,0,Barack Obama
+audio/spoof_0417.wav,1,Alec Guinness
+audio/bonafide_0733.wav,0,Martin Luther King
+audio/bonafide_0734.wav,0,Bernie Sanders
+audio/bonafide_0735.wav,0,Donald Trump
+audio/bonafide_0736.wav,0,Arnold Schwarzenegger
+audio/bonafide_0737.wav,0,Donald Trump
+audio/bonafide_0738.wav,0,Bernie Sanders
+audio/bonafide_0739.wav,0,Winston Churchill
+audio/bonafide_0740.wav,0,Alec Guinness
+audio/bonafide_0741.wav,0,Kamala Harris
+audio/spoof_0418.wav,1,Queen Elizabeth II
+audio/spoof_0419.wav,1,Malcolm X
+audio/bonafide_0742.wav,0,Ayn Rand
+audio/bonafide_0743.wav,0,Boris Johnson
+audio/bonafide_0744.wav,0,Winston Churchill
+audio/spoof_0420.wav,1,Ayn Rand
+audio/bonafide_0745.wav,0,Donald Trump
+audio/bonafide_0746.wav,0,Donald Trump
+audio/bonafide_0747.wav,0,Alec Guinness
+audio/spoof_0421.wav,1,Alec Guinness
+audio/spoof_0422.wav,1,Alec Guinness
+audio/spoof_0423.wav,1,Malcolm X
+audio/bonafide_0748.wav,0,Bernie Sanders
+audio/bonafide_0749.wav,0,Bernie Sanders
+audio/bonafide_0750.wav,0,Christopher Hitchens
+audio/bonafide_0751.wav,0,Alec Guinness
+audio/bonafide_0752.wav,0,Donald Trump
+audio/spoof_0424.wav,1,Ayn Rand
+audio/bonafide_0753.wav,0,Donald Trump
+audio/bonafide_0754.wav,0,Alec Guinness
+audio/bonafide_0755.wav,0,Donald Trump
+audio/spoof_0425.wav,1,Martin Luther King
+audio/spoof_0426.wav,1,Ayn Rand
+audio/spoof_0427.wav,1,Martin Luther King
+audio/spoof_0428.wav,1,Dwight Eisenhower
+audio/bonafide_0756.wav,0,Donald Trump
+audio/spoof_0429.wav,1,Barack Obama
+audio/bonafide_0757.wav,0,Alan Watts
+audio/bonafide_0758.wav,0,Barack Obama
+audio/bonafide_0759.wav,0,Barack Obama
+audio/bonafide_0760.wav,0,Barack Obama
+audio/spoof_0430.wav,1,Orson Welles
+audio/bonafide_0761.wav,0,Donald Trump
+audio/bonafide_0762.wav,0,Donald Trump
+audio/bonafide_0763.wav,0,Robert Kardashian
+audio/spoof_0431.wav,1,Christopher Hitchens
+audio/bonafide_0764.wav,0,Ayn Rand
+audio/spoof_0432.wav,1,Kanye West
+audio/spoof_0433.wav,1,Bernie Sanders
+audio/bonafide_0765.wav,0,Donald Trump
+audio/bonafide_0766.wav,0,Bill Clinton
+audio/spoof_0434.wav,1,Milton Friedman
+audio/spoof_0435.wav,1,Milton Friedman
+audio/spoof_0436.wav,1,Alec Guinness
+audio/bonafide_0767.wav,0,Barack Obama
+audio/spoof_0437.wav,1,Winston Churchill
+audio/bonafide_0768.wav,0,Bob Ross
+audio/spoof_0438.wav,1,Barack Obama
+audio/spoof_0439.wav,1,Robert Kardashian
+audio/bonafide_0769.wav,0,Bernie Sanders
+audio/bonafide_0770.wav,0,Jeff Goldblum
+audio/bonafide_0771.wav,0,Donald Trump
+audio/spoof_0440.wav,1,Barack Obama
+audio/bonafide_0772.wav,0,Winston Churchill
+audio/spoof_0441.wav,1,Milton Friedman
+audio/bonafide_0773.wav,0,Donald Trump
+audio/bonafide_0774.wav,0,Robert Kardashian
+audio/spoof_0442.wav,1,Martin Luther King
+audio/bonafide_0775.wav,0,Harry Truman
+audio/bonafide_0776.wav,0,Alec Guinness
+audio/bonafide_0777.wav,0,Bill Clinton
+audio/bonafide_0778.wav,0,Donald Trump
+audio/spoof_0443.wav,1,Queen Elizabeth II
+audio/spoof_0444.wav,1,Ronald Reagan
+audio/spoof_0445.wav,1,Winston Churchill
+audio/spoof_0446.wav,1,Norm MacDonald
+audio/spoof_0447.wav,1,Alec Guinness
+audio/spoof_0448.wav,1,Queen Elizabeth II
+audio/spoof_0449.wav,1,Alec Guinness
+audio/spoof_0450.wav,1,Alec Guinness
+audio/bonafide_0779.wav,0,Christopher Hitchens
+audio/spoof_0451.wav,1,Louis C.K.
+audio/bonafide_0780.wav,0,Barack Obama
+audio/bonafide_0781.wav,0,Ronald Reagan
+audio/spoof_0452.wav,1,Alec Guinness
+audio/bonafide_0782.wav,0,Ayn Rand
+audio/bonafide_0783.wav,0,Ronald Reagan
+audio/spoof_0453.wav,1,George W. Bush
+audio/bonafide_0784.wav,0,Donald Trump
+audio/spoof_0454.wav,1,Ronald Reagan
+audio/spoof_0455.wav,1,Ayn Rand
+audio/bonafide_0785.wav,0,Ronald Reagan
+audio/spoof_0456.wav,1,Ayn Rand
+audio/bonafide_0786.wav,0,Christopher Hitchens
+audio/spoof_0457.wav,1,Donald Trump
+audio/bonafide_0787.wav,0,JFK
+audio/spoof_0458.wav,1,Alec Guinness
+audio/bonafide_0788.wav,0,Louis Farrakhan
+audio/bonafide_0789.wav,0,Dwight Eisenhower
+audio/spoof_0459.wav,1,Alan Watts
+audio/bonafide_0790.wav,0,Winston Churchill
+audio/spoof_0460.wav,1,Bill Clinton
+audio/spoof_0461.wav,1,The Notorious B.I.G.
+audio/spoof_0462.wav,1,Barack Obama
+audio/spoof_0463.wav,1,Ayn Rand
+audio/bonafide_0791.wav,0,Christopher Hitchens
+audio/bonafide_0792.wav,0,Ayn Rand
+audio/bonafide_0793.wav,0,Louis Farrakhan
+audio/spoof_0464.wav,1,JFK
+audio/bonafide_0794.wav,0,Richard Nixon
+audio/bonafide_0795.wav,0,Bill Clinton
+audio/bonafide_0796.wav,0,Alexandria Ocasio-Cortez
+audio/bonafide_0797.wav,0,Bill Clinton
+audio/spoof_0465.wav,1,Alec Guinness
+audio/spoof_0466.wav,1,Nelson Mandela
+audio/bonafide_0798.wav,0,Bernie Sanders
+audio/spoof_0467.wav,1,Barack Obama
+audio/bonafide_0799.wav,0,Barack Obama
+audio/spoof_0468.wav,1,Frank Sinatra
+audio/spoof_0469.wav,1,Bill Burr
+audio/spoof_0470.wav,1,Mark Zuckerberg
+audio/spoof_0471.wav,1,Mark Zuckerberg
+audio/spoof_0472.wav,1,Nelson Mandela
+audio/spoof_0473.wav,1,Ronald Reagan
+audio/spoof_0474.wav,1,Alan Watts
+audio/spoof_0475.wav,1,Ayn Rand
+audio/spoof_0476.wav,1,Barack Obama
+audio/spoof_0477.wav,1,Dwight Eisenhower
+audio/spoof_0478.wav,1,Alec Guinness
+audio/spoof_0479.wav,1,Mr. Rogers
+audio/spoof_0480.wav,1,Nelson Mandela
+audio/spoof_0481.wav,1,Bob Ross
+audio/spoof_0482.wav,1,Bill Clinton
+audio/spoof_0483.wav,1,Mitch Hedberg
+audio/spoof_0484.wav,1,Alec Guinness
+audio/spoof_0485.wav,1,Queen Elizabeth II
+audio/spoof_0486.wav,1,Christopher Hitchens
+audio/spoof_0487.wav,1,Bill Clinton
+audio/spoof_0488.wav,1,Alec Guinness
+audio/spoof_0489.wav,1,Queen Elizabeth II
+audio/spoof_0490.wav,1,Alan Watts
+audio/spoof_0491.wav,1,Tucker Carlson
+audio/spoof_0492.wav,1,Alec Guinness
+audio/spoof_0493.wav,1,Barack Obama
+audio/spoof_0494.wav,1,Orson Welles
+audio/spoof_0495.wav,1,Alec Guinness
+audio/spoof_0496.wav,1,Mark Zuckerberg
+audio/spoof_0497.wav,1,Christopher Hitchens
+audio/spoof_0498.wav,1,Bill Clinton
+audio/spoof_0499.wav,1,Martin Luther King
+audio/spoof_0500.wav,1,Ayn Rand
+audio/spoof_0501.wav,1,Martin Luther King
+audio/spoof_0502.wav,1,Queen Elizabeth II
+audio/spoof_0503.wav,1,Orson Welles
+audio/spoof_0504.wav,1,Alec Guinness
+audio/spoof_0505.wav,1,Alan Watts
+audio/spoof_0506.wav,1,Bill Clinton
+audio/spoof_0507.wav,1,FDR
+audio/spoof_0508.wav,1,Tucker Carlson
+audio/spoof_0509.wav,1,The Notorious B.I.G.
+audio/spoof_0510.wav,1,The Notorious B.I.G.
+audio/spoof_0511.wav,1,Norm MacDonald
+audio/spoof_0512.wav,1,Martin Luther King
+audio/spoof_0513.wav,1,Christopher Hitchens
+audio/spoof_0514.wav,1,Bernie Sanders
+audio/spoof_0515.wav,1,Alan Watts
+audio/spoof_0516.wav,1,JFK
+audio/spoof_0517.wav,1,Alec Guinness
+audio/spoof_0518.wav,1,FDR
+audio/spoof_0519.wav,1,Martin Luther King
+audio/spoof_0520.wav,1,Donald Trump
+audio/spoof_0521.wav,1,Ronald Reagan
+audio/spoof_0522.wav,1,Mr. Rogers
+audio/spoof_0523.wav,1,Ayn Rand
+audio/spoof_0524.wav,1,Bernie Sanders
+audio/spoof_0525.wav,1,Tucker Carlson
+audio/spoof_0526.wav,1,Mr. Rogers
+audio/spoof_0527.wav,1,George Carlin
+audio/spoof_0528.wav,1,Alec Guinness
+audio/spoof_0529.wav,1,Adam Driver
+audio/spoof_0530.wav,1,Adam Driver
+audio/spoof_0531.wav,1,Mark Zuckerberg
+audio/spoof_0532.wav,1,George W. Bush
+audio/spoof_0533.wav,1,Winston Churchill
+audio/spoof_0534.wav,1,Alec Guinness
+audio/spoof_0535.wav,1,Bill Clinton
+audio/spoof_0536.wav,1,Alec Guinness
+audio/spoof_0537.wav,1,Bernie Sanders
+audio/spoof_0538.wav,1,Adam Driver
+audio/spoof_0539.wav,1,John Cleese
+audio/spoof_0540.wav,1,Richard Nixon
+audio/spoof_0541.wav,1,Ronald Reagan
+audio/spoof_0542.wav,1,Nelson Mandela
+audio/spoof_0543.wav,1,Alec Guinness
+audio/spoof_0544.wav,1,Queen Elizabeth II
+audio/spoof_0545.wav,1,Norm MacDonald
+audio/spoof_0546.wav,1,Boris Johnson
+audio/spoof_0547.wav,1,Ronald Reagan
+audio/spoof_0548.wav,1,Ayn Rand
+audio/spoof_0549.wav,1,Nelson Mandela
+audio/spoof_0550.wav,1,Bill Burr
+audio/spoof_0551.wav,1,Adam Driver
+audio/spoof_0552.wav,1,The Notorious B.I.G.
+audio/spoof_0553.wav,1,Alec Guinness
+audio/spoof_0554.wav,1,Ronald Reagan
+audio/spoof_0555.wav,1,FDR
+audio/spoof_0556.wav,1,George W. Bush
+audio/spoof_0557.wav,1,George W. Bush
+audio/spoof_0558.wav,1,Ronald Reagan
+audio/spoof_0559.wav,1,Orson Welles
+audio/spoof_0560.wav,1,Bill Clinton
+audio/spoof_0561.wav,1,Ronald Reagan
+audio/spoof_0562.wav,1,Mr. Rogers
+audio/spoof_0563.wav,1,Barack Obama
+audio/spoof_0564.wav,1,Alan Watts
+audio/spoof_0565.wav,1,Bill Clinton
+audio/spoof_0566.wav,1,Christopher Hitchens
+audio/spoof_0567.wav,1,Nelson Mandela
+audio/spoof_0568.wav,1,JFK
+audio/spoof_0569.wav,1,Ronald Reagan
+audio/spoof_0570.wav,1,Bernie Sanders
+audio/spoof_0571.wav,1,Alec Guinness
+audio/spoof_0572.wav,1,Queen Elizabeth II
+audio/spoof_0573.wav,1,John Cleese
+audio/spoof_0574.wav,1,Alec Guinness
+audio/spoof_0575.wav,1,Ayn Rand
+audio/spoof_0576.wav,1,John Cleese
+audio/spoof_0577.wav,1,Ayn Rand
+audio/spoof_0578.wav,1,Dwight Eisenhower
+audio/spoof_0579.wav,1,Boris Johnson
+audio/spoof_0580.wav,1,Ayn Rand
+audio/spoof_0581.wav,1,Ronald Reagan
+audio/spoof_0582.wav,1,Mr. Rogers
+audio/spoof_0583.wav,1,Nelson Mandela
+audio/spoof_0584.wav,1,Alan Watts
+audio/spoof_0585.wav,1,Bill Clinton
+audio/spoof_0586.wav,1,Ronald Reagan
+audio/spoof_0587.wav,1,Christopher Hitchens
+audio/spoof_0588.wav,1,Frank Sinatra
+audio/spoof_0589.wav,1,Bernie Sanders
+audio/spoof_0590.wav,1,Malcolm X
+audio/spoof_0591.wav,1,Bernie Sanders
+audio/spoof_0592.wav,1,Louis Farrakhan
+audio/spoof_0593.wav,1,John Cleese
+audio/spoof_0594.wav,1,Bill Clinton
+audio/spoof_0595.wav,1,Bill Clinton
+audio/spoof_0596.wav,1,Ayn Rand
+audio/spoof_0597.wav,1,Alec Guinness
+audio/spoof_0598.wav,1,Christopher Hitchens
+audio/spoof_0599.wav,1,Bernie Sanders
+audio/spoof_0600.wav,1,Gilbert Gottfried
+audio/spoof_0601.wav,1,Alan Watts
+audio/spoof_0602.wav,1,Ronald Reagan
+audio/spoof_0603.wav,1,Alec Guinness
+audio/spoof_0604.wav,1,Ronald Reagan
+audio/spoof_0605.wav,1,Winston Churchill
+audio/spoof_0606.wav,1,Ronald Reagan
+audio/spoof_0607.wav,1,Bill Clinton
+audio/spoof_0608.wav,1,Alec Guinness
+audio/spoof_0609.wav,1,2Pac
+audio/spoof_0610.wav,1,Bernie Sanders
+audio/spoof_0611.wav,1,Milton Friedman
+audio/spoof_0612.wav,1,Alec Guinness
+audio/spoof_0613.wav,1,Alec Guinness
+audio/spoof_0614.wav,1,Ronald Reagan
+audio/spoof_0615.wav,1,Donald Trump
+audio/spoof_0616.wav,1,Bernie Sanders
+audio/spoof_0617.wav,1,Ronald Reagan
+audio/spoof_0618.wav,1,Adam Driver
+audio/spoof_0619.wav,1,Winston Churchill
+audio/spoof_0620.wav,1,Alec Guinness
+audio/spoof_0621.wav,1,Milton Friedman
+audio/spoof_0622.wav,1,Bernie Sanders
+audio/spoof_0623.wav,1,2Pac
+audio/spoof_0624.wav,1,Martin Luther King
+audio/spoof_0625.wav,1,Bill Clinton
+audio/spoof_0626.wav,1,Martin Luther King
+audio/spoof_0627.wav,1,Alan Watts
+audio/spoof_0628.wav,1,Alec Guinness
+audio/spoof_0629.wav,1,Bernie Sanders
+audio/spoof_0630.wav,1,Orson Welles
+audio/spoof_0631.wav,1,Norm MacDonald
+audio/spoof_0632.wav,1,Kanye West
+audio/spoof_0633.wav,1,Adam Driver
+audio/spoof_0634.wav,1,Alec Guinness
+audio/spoof_0635.wav,1,Boris Johnson
+audio/spoof_0636.wav,1,Martin Luther King
+audio/spoof_0637.wav,1,Barack Obama
+audio/spoof_0638.wav,1,Arnold Schwarzenegger
+audio/spoof_0639.wav,1,Queen Elizabeth II
+audio/spoof_0640.wav,1,Alec Guinness
+audio/spoof_0641.wav,1,Nelson Mandela
+audio/spoof_0642.wav,1,Malcolm X
+audio/spoof_0643.wav,1,FDR
+audio/spoof_0644.wav,1,The Notorious B.I.G.
+audio/spoof_0645.wav,1,The Notorious B.I.G.
+audio/spoof_0646.wav,1,George W. Bush
+audio/spoof_0647.wav,1,Ronald Reagan
+audio/spoof_0648.wav,1,Dwight Eisenhower
+audio/spoof_0649.wav,1,Boris Johnson
+audio/spoof_0650.wav,1,Barack Obama
+audio/spoof_0651.wav,1,Ayn Rand
+audio/spoof_0652.wav,1,Alec Guinness
+audio/spoof_0653.wav,1,Ronald Reagan
+audio/spoof_0654.wav,1,The Notorious B.I.G.
+audio/spoof_0655.wav,1,Ayn Rand
+audio/spoof_0656.wav,1,JFK
+audio/spoof_0657.wav,1,Alec Guinness
+audio/spoof_0658.wav,1,Bill Clinton
+audio/spoof_0659.wav,1,Nelson Mandela
+audio/spoof_0660.wav,1,Alec Guinness
+audio/spoof_0661.wav,1,Bob Ross
+audio/spoof_0662.wav,1,FDR
+audio/spoof_0663.wav,1,George W. Bush
+audio/spoof_0664.wav,1,Bernie Sanders
+audio/spoof_0665.wav,1,Bob Ross
+audio/spoof_0666.wav,1,Queen Elizabeth II
+audio/spoof_0667.wav,1,JFK
+audio/spoof_0668.wav,1,Bill Clinton
+audio/spoof_0669.wav,1,Queen Elizabeth II
+audio/spoof_0670.wav,1,Mark Zuckerberg
+audio/spoof_0671.wav,1,Alexandria Ocasio-Cortez
+audio/spoof_0672.wav,1,Ronald Reagan
+audio/spoof_0673.wav,1,Bill Clinton
+audio/spoof_0674.wav,1,Barack Obama
+audio/spoof_0675.wav,1,Barack Obama
+audio/spoof_0676.wav,1,Bill Clinton
+audio/spoof_0677.wav,1,The Notorious B.I.G.
+audio/spoof_0678.wav,1,Donald Trump
+audio/spoof_0679.wav,1,Tucker Carlson
+audio/spoof_0680.wav,1,Queen Elizabeth II
+audio/spoof_0681.wav,1,Tucker Carlson
+audio/spoof_0682.wav,1,Barack Obama
+audio/spoof_0683.wav,1,Malcolm X
+audio/spoof_0684.wav,1,Bernie Sanders
+audio/spoof_0685.wav,1,Alec Guinness
+audio/spoof_0686.wav,1,Alec Guinness
+audio/spoof_0687.wav,1,FDR
+audio/spoof_0688.wav,1,Ronald Reagan
+audio/spoof_0689.wav,1,2Pac
+audio/spoof_0690.wav,1,Ronald Reagan
+audio/spoof_0691.wav,1,Bob Ross
+audio/spoof_0692.wav,1,Alec Guinness
+audio/spoof_0693.wav,1,Alan Watts
+audio/spoof_0694.wav,1,Malcolm X
+audio/spoof_0695.wav,1,Ayn Rand
+audio/spoof_0696.wav,1,Alec Guinness
+audio/spoof_0697.wav,1,Ayn Rand
+audio/spoof_0698.wav,1,Orson Welles
+audio/spoof_0699.wav,1,Kanye West
+audio/spoof_0700.wav,1,Alec Guinness
+audio/spoof_0701.wav,1,Bernie Sanders
+audio/spoof_0702.wav,1,Martin Luther King
+audio/spoof_0703.wav,1,Ayn Rand
+audio/spoof_0704.wav,1,Queen Elizabeth II
+audio/spoof_0705.wav,1,FDR
+audio/spoof_0706.wav,1,Alec Guinness
+audio/spoof_0707.wav,1,Orson Welles
+audio/spoof_0708.wav,1,Bill Clinton
+audio/spoof_0709.wav,1,Bill Clinton
+audio/spoof_0710.wav,1,Boris Johnson
+audio/spoof_0711.wav,1,Bernie Sanders
+audio/spoof_0712.wav,1,Ronald Reagan
+audio/spoof_0713.wav,1,Bill Burr
+audio/spoof_0714.wav,1,Christopher Hitchens
+audio/spoof_0715.wav,1,George W. Bush
+audio/spoof_0716.wav,1,Norm MacDonald
+audio/spoof_0717.wav,1,Christopher Hitchens
+audio/spoof_0718.wav,1,Ronald Reagan
+audio/spoof_0719.wav,1,FDR
+audio/spoof_0720.wav,1,Bernie Sanders
+audio/spoof_0721.wav,1,JFK
+audio/spoof_0722.wav,1,The Notorious B.I.G.
+audio/spoof_0723.wav,1,Ayn Rand
+audio/spoof_0724.wav,1,JFK
+audio/spoof_0725.wav,1,Ayn Rand
+audio/spoof_0726.wav,1,Ayn Rand
+audio/spoof_0727.wav,1,Alan Watts
+audio/spoof_0728.wav,1,Barack Obama
+audio/spoof_0729.wav,1,Winston Churchill
+audio/spoof_0730.wav,1,Bernie Sanders
+audio/spoof_0731.wav,1,Ayn Rand
+audio/spoof_0732.wav,1,Alec Guinness
+audio/spoof_0733.wav,1,Bill Clinton
+audio/spoof_0734.wav,1,Bernie Sanders
+audio/spoof_0735.wav,1,Bernie Sanders
+audio/spoof_0736.wav,1,Ayn Rand
+audio/spoof_0737.wav,1,Adam Driver
+audio/spoof_0738.wav,1,Bill Clinton
+audio/spoof_0739.wav,1,Alan Watts
+audio/spoof_0740.wav,1,Alec Guinness
+audio/spoof_0741.wav,1,Queen Elizabeth II
+audio/spoof_0742.wav,1,The Notorious B.I.G.
+audio/spoof_0743.wav,1,Alec Guinness
+audio/spoof_0744.wav,1,Ayn Rand
+audio/spoof_0745.wav,1,Louis Farrakhan
+audio/spoof_0746.wav,1,Bernie Sanders
+audio/spoof_0747.wav,1,Ronald Reagan
+audio/spoof_0748.wav,1,Bernie Sanders
+audio/spoof_0749.wav,1,Alec Guinness
+audio/spoof_0750.wav,1,Norm MacDonald
+audio/spoof_0751.wav,1,Alexandria Ocasio-Cortez
+audio/spoof_0752.wav,1,Bernie Sanders
+audio/spoof_0753.wav,1,Arnold Schwarzenegger
+audio/spoof_0754.wav,1,Mr. Rogers
+audio/spoof_0755.wav,1,Martin Luther King
+audio/spoof_0756.wav,1,Alec Guinness
+audio/spoof_0757.wav,1,Bernie Sanders
+audio/spoof_0758.wav,1,Christopher Hitchens
+audio/spoof_0759.wav,1,2Pac
+audio/spoof_0760.wav,1,Bernie Sanders
+audio/spoof_0761.wav,1,Milton Friedman
+audio/spoof_0762.wav,1,Bernie Sanders
+audio/spoof_0763.wav,1,Christopher Hitchens
+audio/spoof_0764.wav,1,Nelson Mandela
+audio/spoof_0765.wav,1,Alec Guinness
+audio/spoof_0766.wav,1,Alec Guinness
+audio/spoof_0767.wav,1,Alec Guinness
+audio/spoof_0768.wav,1,Alec Guinness
+audio/spoof_0769.wav,1,Bill Clinton
+audio/spoof_0770.wav,1,Alec Guinness
+audio/spoof_0771.wav,1,Ayn Rand
+audio/spoof_0772.wav,1,Queen Elizabeth II
+audio/spoof_0773.wav,1,Frank Sinatra
+audio/spoof_0774.wav,1,Christopher Hitchens
+audio/spoof_0775.wav,1,Donald Trump
+audio/spoof_0776.wav,1,The Notorious B.I.G.
+audio/spoof_0777.wav,1,Dwight Eisenhower
+audio/spoof_0778.wav,1,Ayn Rand
+audio/spoof_0779.wav,1,Mark Zuckerberg
+audio/spoof_0780.wav,1,The Notorious B.I.G.
+audio/spoof_0781.wav,1,Alexandria Ocasio-Cortez
+audio/spoof_0782.wav,1,Ayn Rand
+audio/spoof_0783.wav,1,The Notorious B.I.G.
+audio/spoof_0784.wav,1,Bernie Sanders
+audio/spoof_0785.wav,1,Orson Welles
+audio/spoof_0786.wav,1,JFK
+audio/spoof_0787.wav,1,Alec Guinness
+audio/spoof_0788.wav,1,Bill Clinton
+audio/spoof_0789.wav,1,Bill Clinton
+audio/spoof_0790.wav,1,Bernie Sanders
+audio/spoof_0791.wav,1,Mark Zuckerberg
+audio/spoof_0792.wav,1,Alec Guinness
+audio/spoof_0793.wav,1,Bernie Sanders
+audio/spoof_0794.wav,1,Norm MacDonald
+audio/spoof_0795.wav,1,Christopher Hitchens
+audio/spoof_0796.wav,1,Arnold Schwarzenegger
+audio/spoof_0797.wav,1,Ayn Rand
+audio/spoof_0798.wav,1,Richard Nixon
+audio/spoof_0799.wav,1,Ronald Reagan

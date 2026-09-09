@@ -1,0 +1,46 @@
+# Audio
+SAMPLE_RATE = 16000
+MONO = True
+PRIMARY_AUDIO_FORMAT = ".wav"
+STREAMING_CHUNK_DURATION_MS = 500
+INFERENCE_CHUNK_DURATION_MS = 1000
+ROLLING_WINDOW_SIZE = 5
+
+# Model
+MODEL_NAME = "facebook/wav2vec2-base"
+NUM_CLASSES = 2
+
+# Training
+BATCH_SIZE = 4
+GRADIENT_ACCUMULATION_STEPS = 2
+EPOCHS = 3
+LEARNING_RATE = 1e-4
+WARMUP_STEPS = 70
+WEIGHT_DECAY = 0.01
+
+# Noise augmentation
+USE_NOISE_AUGMENTATION = True
+NOISE_AUG_PROBABILITY = 0.5
+NOISE_AUG_SNR_DB = [10, 15, 20]
+NOISE_SOURCE = "white_noise"
+
+# Evaluation
+EVAL_CLEAN_ONLY = False
+REPORT_UNSEEN_GENERATOR = False
+
+# Risk scoring
+LOW_RISK_THRESHOLD = 0.3
+HIGH_RISK_THRESHOLD = 0.7
+CONFIDENCE_THRESHOLD = 0.5
+
+# Paths
+DATA_DIR = "ml/data/raw"
+PROCESSED_DATA_DIR = "ml/data/processed"
+SPLITS_DIR = "ml/data/splits"
+MODELS_DIR = "ml/models/final"
+CHECKPOINTS_DIR = "ml/models/checkpoints"
+RESULTS_DIR = "ml/results"
+
+# Hardware
+DEVICE = "cuda"
+NUM_WORKERS = 2

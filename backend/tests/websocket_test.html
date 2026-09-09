@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Voice Clone Detection Test</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0 15px;
+            box-sizing: border-box;
+        }
+
+        button {
+            padding: 12px 20px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+
+        #log {
+            margin-top: 20px;
+            padding: 15px;
+            background: #111;
+            color: #0f0;
+            min-height: 250px;
+            white-space: pre-wrap;
+            font-family: monospace;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>🎙️ Voice Clone Detection Test</h1>
+
+    <label>Email</label>
+    <input
+        id="email"
+        type="email"
+        placeholder="Enter your Supabase login email"
+    >
+
+    <label>Password</label>
+    <input
+        id="password"
+        type="password"
+        placeholder="Enter your Supabase password"
+    >
+
+    <button id="startButton">
+        🚀 Start Detection
+    </button>
+
+    <button id="stopButton" disabled>
+        🛑 Stop
+    </button>
+
+    <div id="log"></div>
+
+    <script>
+        let socket = null;
+        let audioContext = null;
+        let mediaStream = null;
+        let source = null;
+        let workletNode = null;
+
+        const logBox = document.getElementById("log");
+
+        function log(message) {
+            console.log(message);
+            logBox.textContent += message + "\n";
+        }
+
+        function clearLog() {
+            logBox.textContent = "";
+        }
+
+        async function login() {
+
+            const email = document.getElementById("email").value.trim();
+            const password = document.getElementById("password").value;
+
+            if (!email || !password) {
+                throw new Error("Please enter your email and password.");
+            }
+
+            log("🔐 Logging in...");
+
+            const response = await fetch("/login", {
+                method: "POST",
+
+                headers: {
+                    "Content-Type": "application/json"
+                },
+
+                body: JSON.stringify({
+                    email: email,
+                    password: password
+                })
+            });
+
+            if (!response.ok) {
+                const errorText = await response.text();
+
+                throw new Error(
+                    `Login failed (${response.status}): ${errorText}`
+                );
+            }
+
+            const data = await response.json();
+
+            if (!data.access_token) {
+                throw new Error("Login succeeded but no access token was returned.");
+            }
+
+            log("✅ Login successful.");
+
+            return data.access_token;
+        }
+
+
+        async function startDetection() {
+
+            clearLog();
+
+            document.getElementById("startButton").disabled = true;
+            document.getElementById("stopButton").disabled = false;
+
+            try {
+
+                log("🚀 Starting detection...");
+
+                // --------------------------------------------------
+                // PHASE A: LOGIN
+                // --------------------------------------------------
+
+                const token = await login();
+
+                log("🔑 Access token received.");
+
+                // --------------------------------------------------
+                // PHASE B: WEBSOCKET
+                // --------------------------------------------------
+
+                log("🔌 Connecting WebSocket...");
+
+                socket = new WebSocket(
+                    `ws://${window.location.host}/ws/detect`
+                );
+
+                socket.binaryType = "arraybuffer";
+
+                socket.onopen = () => {
+
+                    log("✅ WebSocket connected.");
+
+                    // First message = JWT
+                    socket.send(token);
+
+                    log("🔑 JWT sent to WebSocket.");
+                };
+
+
+                socket.onmessage = async (event) => {
+
+                    // Server sends JSON messages as text
+                    if (typeof event.data === "string") {
+
+                        const message = JSON.parse(event.data);
+
+                        console.log("Server:", message);
+
+                        // ------------------------------------------
+                        // AUTHENTICATED
+                        // ------------------------------------------
+
+                        if (
+                            message.type === "connection" &&
+                            message.status === "authenticated"
+                        ) {
+
+                            log("✅ WebSocket authentication successful.");
+
+                            const audioConfig = {
+
+                                type: "audio_config",
+
+                                sample_rate: audioContext
+                                    ? audioContext.sampleRate
+                                    : 48000,
+
+                                channels: 1,
+
+                                format: "pcm_s16le"
+                            };
+
+                            socket.send(
+                                JSON.stringify(audioConfig)
+                            );
+
+                            log(
+                                `🎵 Audio config sent: ${audioConfig.sample_rate} Hz`
+                            );
+                        }
+
+
+                        // ------------------------------------------
+                        // AUDIO CONFIG ACCEPTED
+                        // ------------------------------------------
+
+                        else if (
+                            message.type === "audio_config" &&
+                            message.status === "accepted"
+                        ) {
+
+                            log("✅ Audio configuration accepted.");
+
+                            await startMicrophone();
+                        }
+
+
+                        // ------------------------------------------
+                        // DETECTION RESULT
+                        // ------------------------------------------
+
+                        else if (message.type === "detection") {
+
+                            log(
+                                `🧠 Detection → ` +
+                                `Score: ${message.current_score.toFixed(4)} | ` +
+                                `Average: ${message.average_score.toFixed(4)} | ` +
+                                `Risk: ${message.risk_level}`
+                            );
+                        }
+                    }
+                };
+
+
+                socket.onerror = (error) => {
+
+                    console.error(error);
+
+                    log("❌ WebSocket error.");
+                };
+
+
+                socket.onclose = (event) => {
+
+                    log(
+                        `🔌 WebSocket closed. Code: ${event.code}`
+                    );
+                };
+
+            }
+
+            catch (error) {
+
+                console.error(error);
+
+                log(`❌ ERROR: ${error.message}`);
+
+                stopDetection();
+            }
+        }
+
+
+        async function startMicrophone() {
+
+            log("🎤 Requesting microphone...");
+
+            mediaStream = await navigator.mediaDevices.getUserMedia({
+
+                audio: {
+                    channelCount: 1,
+                    echoCancellation: true,
+                    noiseSuppression: true,
+                    autoGainControl: false
+                }
+            });
+
+            log("🎤 Microphone access granted.");
+
+            audioContext = new AudioContext();
+
+            log(
+                `🎵 Browser sample rate: ${audioContext.sampleRate} Hz`
+            );
+
+            await audioContext.audioWorklet.addModule(
+                "/test/audio_processor.js"
+            );
+
+            source = audioContext.createMediaStreamSource(
+                mediaStream
+            );
+
+            workletNode = new AudioWorkletNode(
+                audioContext,
+                "pcm-processor"
+            );
+
+            // Convert Float32 [-1, +1]
+            // to signed 16-bit PCM
+            workletNode.port.onmessage = (event) => {
+
+                if (!socket || socket.readyState !== WebSocket.OPEN) {
+                    return;
+                }
+
+                const float32Data = event.data;
+
+                const pcm16Data = new Int16Array(
+                    float32Data.length
+                );
+
+                for (let i = 0; i < float32Data.length; i++) {
+
+                    let sample = float32Data[i];
+
+                    sample = Math.max(-1, Math.min(1, sample));
+
+                    pcm16Data[i] =
+                        sample < 0
+                            ? sample * 32768
+                            : sample * 32767;
+                }
+
+                socket.send(pcm16Data.buffer);
+            };
+
+            // Connect microphone -> AudioWorklet
+            source.connect(workletNode);
+
+            // Silent output so microphone isn't played back
+            const silentGain = audioContext.createGain();
+
+            silentGain.gain.value = 0;
+
+            workletNode.connect(silentGain);
+
+            silentGain.connect(
+                audioContext.destination
+            );
+
+            log("🎤 Real-time microphone streaming started.");
+            log("🧠 Waiting for ML detection results...");
+        }
+
+
+        function stopDetection() {
+
+            log("🛑 Stopping...");
+
+            if (workletNode) {
+                workletNode.disconnect();
+                workletNode = null;
+            }
+
+            if (source) {
+                source.disconnect();
+                source = null;
+            }
+
+            if (mediaStream) {
+
+                mediaStream
+                    .getTracks()
+                    .forEach(track => track.stop());
+
+                mediaStream = null;
+            }
+
+            if (audioContext) {
+
+                audioContext.close();
+                audioContext = null;
+            }
+
+            if (socket) {
+
+                socket.close();
+                socket = null;
+            }
+
+            document.getElementById("startButton").disabled = false;
+            document.getElementById("stopButton").disabled = true;
+        }
+
+
+        document
+            .getElementById("startButton")
+            .addEventListener(
+                "click",
+                startDetection
+            );
+
+
+        document
+            .getElementById("stopButton")
+            .addEventListener(
+                "click",
+                stopDetection
+            );
+
+    </script>
+
+</body>
+</html>
